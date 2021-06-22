@@ -1,0 +1,12 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [["styled-components", { "ssr": true }], ["@babel/plugin-proposal-optional-chaining"], ["inline-react-svg"]],
+  "env": {
+    "development": {
+      "plugins": []
+    },
+    "production": {
+      "plugins": []
+    }
+  }
+}

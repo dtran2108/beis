@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-2{fill:#72c2c6}
+        </style>
+    </defs>
+    <g id="Group_5269" transform="translate(-272 -563)">
+        <g id="Group_5267" transform="translate(6 75)">
+            <g id="Ellipse_397" fill="none" stroke="#d9d9d9" transform="translate(266 488)">
+                <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                <circle cx="17.5" cy="17.5" r="17"/>
+            </g>
+        </g>
+        <g id="house_1_" transform="translate(257.01 569)">
+            <path id="Path_10796" d="M32.99 0A9 9 0 0 0 24 8.99c0 6.334 7.945 14.352 8.283 14.69a1.009 1.009 0 0 0 1.413 0c.338-.338 8.283-8.356 8.283-14.69A9 9 0 0 0 32.99 0zm0 14.983a5.993 5.993 0 1 1 5.993-5.993 5.993 5.993 0 0 1-5.993 5.993z" class="cls-2"/>
+            <path id="Path_10797" d="M70.649 46.05l-4-2a.5.5 0 0 0-.447 0l-4 2 .447.893 1.275-.638v3.187a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-3.186l1.275.638z" class="cls-2" transform="translate(-33.44 -38.506)"/>
+        </g>
+    </g>
+</svg>

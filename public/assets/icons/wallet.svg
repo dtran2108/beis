@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-2{fill:#8eafda}
+        </style>
+    </defs>
+    <g id="Group_5349" transform="translate(-272 -563)">
+        <g id="Group_5267" transform="translate(6 75)">
+            <g id="Ellipse_397" fill="none" stroke="#d9d9d9" transform="translate(266 488)">
+                <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                <circle cx="17.5" cy="17.5" r="17"/>
+            </g>
+        </g>
+        <g id="wallet-filled-money-tool_1_" transform="translate(280.401 553.819)">
+            <g id="Group_5360" transform="translate(0 17.84)">
+                <path id="Path_10817" d="M160.465 21.07l7.047-1.923-.373-.754a.993.993 0 0 0-1.33-.449L159.5 21.07z" class="cls-2" transform="translate(-156.334 -17.84)"/>
+                <path id="Path_10818" d="M328.973 86.46a.992.992 0 0 0-.262.036l-1.656.453L322 88.328h8.24l-.31-1.135a.991.991 0 0 0-.957-.733z" class="cls-2" transform="translate(-315.608 -85.098)"/>
+                <path id="Path_10819" d="M15.666 215.56H.995a.994.994 0 0 0-.959.732 1.027 1.027 0 0 0-.036.26v11.059a.993.993 0 0 0 .993.993h14.671a.993.993 0 0 0 .993-.993v-2.769h-5.89a1.688 1.688 0 0 1-1.687-1.687v-2.207a1.685 1.685 0 0 1 1.685-1.685h5.892v-2.71a.99.99 0 0 0-.991-.993z" class="cls-2" transform="translate(0 -211.635)"/>
+                <path id="Path_10820" d="M499.979 437.021a.992.992 0 0 0-.347-.206 1.012 1.012 0 0 0-.322-.054h-5.917a.993.993 0 0 0-.993.993v2.209a.993.993 0 0 0 .993.992h5.917a1.012 1.012 0 0 0 .322-.054.962.962 0 0 0 .347-.206.989.989 0 0 0 .324-.732v-2.209a.989.989 0 0 0-.324-.733zm-4.514 2.035a.5.5 0 0 1-.5.5h-.329a.5.5 0 0 1-.5-.5v-.33a.486.486 0 0 1 .191-.389.5.5 0 0 1 .306-.107h.329a.5.5 0 0 1 .5.5v.33z" class="cls-2" transform="translate(-482.626 -428.445)"/>
+            </g>
+        </g>
+    </g>
+</svg>

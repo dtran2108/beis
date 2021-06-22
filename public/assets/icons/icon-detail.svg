@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-2{fill:#f46639}
+        </style>
+    </defs>
+    <g id="Group_5253" transform="translate(-20 -271.963)">
+        <g id="Group_4531" transform="translate(20 272)">
+            <g id="Rectangle_844" fill="#fff" stroke="#e1e1e2" stroke-width="2px" transform="translate(0 -.037)">
+                <rect width="36" height="36" stroke="none" rx="18"/>
+                <rect width="34" height="34" x="1" y="1" fill="none" rx="17"/>
+            </g>
+        </g>
+        <g id="information" transform="translate(33.604 280.56)">
+            <circle id="Ellipse_387" cx="2.842" cy="2.842" r="2.842" class="cls-2" transform="translate(1.563)"/>
+            <path id="Path_10363" d="M93.339 116.288v-9.61a.79.79 0 0 0-.79-.79l-5.477-.005a.776.776 0 0 0 0 1.551h.993v8.854a.776.776 0 1 0 0 1.551h5.274a.775.775 0 1 0 0-1.551z" class="cls-2" transform="translate(-86.297 -99.314)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+.ant-btn-primary:hover,
+.ant-btn-primary:focus,
+.ant-btn-primary:active,
+.ant-btn-primary:focus-visible,
+.ant-btn-primary:focus-within,
+.ant-btn-primary:target,
+.ant-btn-primary:visited {
+  background: linear-gradient(to right, #2a3ea4, #d77f93 50%, #f3a44d);
+  border-color: white;
+}
+
+.ant-form-item-children-icon {
+  line-height: 14px !important;
+}

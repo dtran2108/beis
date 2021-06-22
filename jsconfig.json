@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/beis-assets/*": ["public/beis-assets/*"],
+      "~/assets/*": ["public/assets/*"],
+      "~/components/*": ["components/*"],
+      "~/configs/*": ["configs/*"],
+      "~/container*": ["views/container*"],
+      "~/lang/*": ["lang/*"],
+      "~/lib/*": ["lib/*"],
+      "~/pages/*": ["pages/*"],
+      "~/presentation*": ["views/presentation*"],
+      "~/public/*": ["public/*"],
+      "~/redux/*": ["redux/*"],
+      "~/script/*": ["script/*"],
+      "~/styles/*": ["styles/*"],
+      "~/utils*": ["views/utils*"],
+      "~/views/*": ["views/*"],
+      "~/*": ["*"]
+    },
+    "target": "es6",
+    "module": "commonjs"
+  },
+  "exclude": ["node_modules"]
+}

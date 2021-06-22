@@ -1,0 +1,6 @@
+const sitemap = require('nextjs-sitemap-generator');  
+sitemap({  
+  baseUrl: 'http://localhost:3000',  
+  pagesDirectory: __dirname + "/pages",  
+  targetDirectory : 'static/'  
+});

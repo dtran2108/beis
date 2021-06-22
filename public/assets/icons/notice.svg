@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-2{fill:#a2da95}
+        </style>
+    </defs>
+    <g id="Group_5359" transform="translate(-272 -563)">
+        <g id="Group_5267" transform="translate(6 75)">
+            <g id="Ellipse_397" fill="none" stroke="#d9d9d9" transform="translate(266 488)">
+                <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                <circle cx="17.5" cy="17.5" r="17"/>
+            </g>
+        </g>
+        <g id="bell" transform="translate(227.959 569.737)">
+            <path id="Path_10826" d="M184.9 465.044a3.275 3.275 0 0 0 6 0z" class="cls-2" transform="translate(-126.296 -445.318)"/>
+            <path id="Path_10827" d="M198.792 2.071a7.367 7.367 0 0 1 2.516.441v-.1A2.418 2.418 0 0 0 198.892 0h-.2a2.418 2.418 0 0 0-2.415 2.415v.1a7.382 7.382 0 0 1 2.515-.444z" class="cls-2" transform="translate(-137.187)"/>
+            <path id="Path_10828" d="M69.545 93.945H53.667a.647.647 0 0 1-.638-.5.617.617 0 0 1 .34-.7 3.37 3.37 0 0 0 1.025-1.394 16.106 16.106 0 0 0 1.069-6.374 6.143 6.143 0 0 1 12.286-.024v.024a16.106 16.106 0 0 0 1.069 6.374 3.369 3.369 0 0 0 1.025 1.394.617.617 0 0 1 .34.7.647.647 0 0 1-.638.5zm.305-1.194z" class="cls-2" transform="translate(0 -75.492)"/>
+        </g>
+    </g>
+</svg>

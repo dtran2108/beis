@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-2{fill:#f89f7a}
+        </style>
+    </defs>
+    <g id="Group_5266" transform="translate(-266 -488)">
+        <g id="Ellipse_397" fill="none" stroke="#d9d9d9" transform="translate(266 488)">
+            <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+            <circle cx="17.5" cy="17.5" r="17"/>
+        </g>
+        <g id="user-filled-person-shape" transform="translate(269.67 493.885)">
+            <g id="Group_5265" transform="translate(3.577)">
+                <path id="Path_10794" d="M31.248 10.394a4.972 4.972 0 0 0 4.7-5.2 4.972 4.972 0 0 0-4.7-5.2 4.972 4.972 0 0 0-4.7 5.2 4.972 4.972 0 0 0 4.7 5.2z" class="cls-2" transform="translate(-21.493)"/>
+                <path id="Path_10795" d="M18.743 44.07a.661.661 0 0 0-.7.3 5.727 5.727 0 0 1-4.694 2.8 5.726 5.726 0 0 1-4.693-2.8.661.661 0 0 0-.7-.3c-3.649.8-4.611 6.311-4.326 10.783a.661.661 0 0 0 .659.619h18.123a.66.66 0 0 0 .659-.619c.284-4.476-.678-9.987-4.328-10.783z" class="cls-2" transform="translate(-3.577 -34.357)"/>
+            </g>
+        </g>
+    </g>
+</svg>
