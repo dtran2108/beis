@@ -1,34 +1,20 @@
 import Link from 'next/link';
 import React from 'react';
 import Meta from '~/views/SEO/meta';
+import Home from '~/views/container/Home';
 
-const fetchData = () =>
-  new Promise((resolve) => {
-    setTimeout(resolve(['hihi', 'haha']), 3000);
-  });
-
-/**
- * SSR: call api in getStaticProps -> return
- */
-export default function Index({ preview, data }) {
-  const heroPost = data[0];
+export default function Index() {
   return (
     <>
       <Meta
-        title={'ERA EXAMPLE '}
+        title={'Beis Travel | The Ultimate Travel Essential'}
         image={'https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png'}
         ogImage={'https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png'}
-        description={'Description alasldkasjdlask jd'}
+        description={
+          'The best travel gear and accessories for the modern traveler. These are perfect for weekend sleepovers, beach days, and summers in the south of France. Designed and created by Shay Mitchell.'
+        }
       />
-      <div>{heroPost}</div>
-      <Link href="/example">Go example</Link>
+      <Home />
     </>
   );
-}
-
-export async function getStaticProps({ preview = false }) {
-  const data = await fetchData();
-  return {
-    props: { preview, data }
-  };
 }

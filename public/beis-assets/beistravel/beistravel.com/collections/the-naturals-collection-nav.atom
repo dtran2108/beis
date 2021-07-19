@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://beistravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://beistravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://beistravel.com/collections/the-naturals-collection-nav.atom"/>
+  <title>Béis</title>
+  <updated>2020-09-22T08:10:34-07:00</updated>
+  <author>
+    <name>Béis</name>
+  </author>
+  <entry>
+    <id>https://beistravel.com/products/5077586411656</id>
+    <published>2020-09-22T08:10:34-07:00</published>
+    <updated>2020-09-22T08:10:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-cosmetic-pouch-set-in-natural"/>
+    <title>The Cosmetic Pouch Set in Natural</title>
+    <s:type>the cosmetic pouch set</s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/2667x4000_3c19a293-5529-4d52-8f25-3231e13edff5.jpg?v=1622087513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong>the cosmetic pouch set<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">You're way too organized, said no one ever! This simple set of pouches can organize just about anything from your day to day needs to your travel essentials, keeping everything zipped up and tidy in two compact pieces!</p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<div>“<span>I can never have to many little pouches and kits to organize all my stuff. I love having a pouch for everything, one for the car, one for my gym bag, one for my work tote – this makes me feel like I am constantly prepared for anything </span>” —Shay</div>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>2 PIECE SET <br>Because one is never enough <br>OVERSIZED LOGO <br>Only making BIG statements around here <br>ORGANIZED COMPARTMENTS <br>A place for everything</span><br><br></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>buffalo pu</s:tag>
+    <s:tag>cosmetic pouch</s:tag>
+    <s:tag>Cosmetics</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>tag-limited</s:tag>
+    <s:tag>The Beauty Guru</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_cosmetic_pouch</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5077586411656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>BEIS320004</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5077678030984</id>
+    <published>2020-09-22T08:10:24-07:00</published>
+    <updated>2020-09-22T08:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-wristlet-set-in-natural"/>
+    <title>The Wristlet Set in Natural</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/2667x4000_set2.jpg?v=1622150468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>At first glance this little beauty might look like a cute wristlet, but she is SO much more. Each piece was designed so that you could carry them as a set or individually. The d-ring on each pouch can also be attached to the inside of any BÉIS bag, using our signature key fob (you can find this on interior seam of every BÉIS bag). Even better, the small snap card case comes with a scrunchie, take it for a spin on it's own and never have a reason you can't pull your hair back!</span>!</p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<div>
+<span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>“</span></span></span><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>Literally everything you need wrapped around your little….wrist. That’s how that saying goes, right?? I can’t tell you enough how much I love this trio that will ensure all of your essentials are conveniently organized and stylishly available whenever you are on the go. Knick knacks at the bottom of the bag no more, throw this in a larger (BÉIS!) bag or carry it for all the world to see.  </span></span>—Shay"</div>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><strong>3 PIECE SET</strong> <br>Because one is never enough <br><strong>D-RING</strong> <br>Attach it to ALL the things <br><strong>SCRUNCHIE</strong> <br>Because she will blow your hair back!</p>
+<p class="p1"><b><i> </i></b></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Personal Item</s:tag>
+    <s:tag>tag-limited</s:tag>
+    <s:tag>The Organizer</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>wristlet set</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5077678030984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>BEIS320005</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5077666267272</id>
+    <published>2020-09-14T15:04:54-07:00</published>
+    <updated>2020-09-14T15:04:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-backpack-tote-in-natural"/>
+    <title>The Backpack Tote in Natural</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/2667x4000_backpacktote1.jpg?v=1622091216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">Similar to our best selling, The Convertible Backpack - updated with a summer bod! Still the most adorable and adaptable thing you've ever seen, with a summer-ready makeover. From back to tote or shoulder bag using an upgraded braided shoulder strap. Padded laptop sleeve, trolley sleeve - she will remain your best summer companion!</p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<div>
+<span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>“</span></span></span><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>Backpacks are not USUALLY my go-to bags, but our new "Backpack Tote" that can be styled and worn three different ways may just make me a true believer. As much tote as backpack, I love the woven strap and versatility that this bag offers, and the fact that it is ready for WHATEVER you want to throw at it…day trip to the beach, carry-on, school supplies, staycation. I’m here for it all, with this bag. </span></span>—Shay"</div>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><b><i>CONVERTIBLE!<br></i></b>For a bag as versatile as you <br><strong>ADJUSTABLE, REMOVABLE SHOULDER STRAP</strong> <br>Multiple ways to carry <br><strong>RFID-LINED FRONT EXTERIOR POCKET</strong> <br>Safety first. <br><strong>EXTERNAL POCKETS</strong> <br>Organize ALL the things<br> <strong>KEY FOB</strong> <br>Never lose them again! <br><strong>PADDED LAPTOP SLEEVE</strong> <br>Fits up to 16" laptop <br><strong>TROLLEY PASSTHROUGH</strong> <br>Plays nice with roller bags.</p>
+<p class="p1"><b><i> </i></b></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>backpack</s:tag>
+    <s:tag>convertible backpack</s:tag>
+    <s:tag>tag-limited</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5077666267272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>BEIS320002</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5077529526408</id>
+    <published>2020-09-14T14:23:08-07:00</published>
+    <updated>2020-09-14T14:23:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-everyday-tote-in-natural"/>
+    <title>The Everyday Tote in Natural</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/2667x4000_tote4.jpg?v=1622131030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">Multifunction at it's very best. Meticulously designed to tackle your everyday, travel, weekend getaways and more. This tote was packed with an enormous amount of function, including 3 different carrying straps and a snap-in pouch that can turn into a shoulder or cross-body bag in a pinch! Our signature padded laptop sleeve, key clip and trolley pass-through that doubles as a pocket, round out this masterpiece!</p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p><span>"</span><span>It’s true that I love all my babies equally, and this little number is no exception! This bag is almost like a medley of some of our existing hero products, and is so versatile I can’t stand it. Use it for travel, use it for work, use it for meetings but THEN, slip the chain through, pull out the organizational insert and you’ve got yourself a beautiful little purse for a quick exit. Everyday Tote - I love you everyday.</span>" -Shay</p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span><em><strong>SO MANY STRAPS!</strong></em><br>Multiple ways to carry<br><em><strong>REMOVABLE POUCH</strong></em><br>Converts into a shoulder bag!<br><em><strong>KEY FOB</strong></em><br>Because: keys.<br><span><em><strong>EXTERNAL POCKET </strong></em><br>Keep small items at-hand </span><br><em><strong>PADDED LAPTOP SLEEVE</strong></em><br>Fits </span>up to 16” laptop<br><span><em><strong>TROLLEY PASSTHROUGH </strong></em><br>Plays nice with roller bags.<br><em><strong>ELASTIC WATER BOTTLE POCKET</strong></em><br>Stay hydrated, with wine or water, no one is judging<br><em><strong>DIMENSIONS</strong></em><br></span>17.5"W x 16"H x 6"L</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2</s:tag>
+    <s:tag>2+ Bags In One</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>every day</s:tag>
+    <s:tag>every day tote</s:tag>
+    <s:tag>everyday</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>laptop case</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>pre-spring</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>tag-limited</s:tag>
+    <s:tag>The Boss Babe</s:tag>
+    <s:tag>tote</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>Wet/Dry Bag</s:tag>
+    <s:tag>YGroup_everyday_tote</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5077529526408</id>
+      <title>Default Title</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>BEIS320001</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5077599977608</id>
+    <published>2020-07-15T08:55:02-07:00</published>
+    <updated>2020-07-15T08:55:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-mini-crossbody-in-natural"/>
+    <title>The Mini Crossbody in Natural</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/2667x4000_mini2.jpg?v=1622136103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>Sometimes all you need is your phone, some dollar bills and your favorite lip gloss. This compact crossbody is the perfect bag to throw in your luggage for all your daytime excursions! Small enough to not distract you from the views but big enough to hold only the necessities while making you feel secure! Oh, and it’s cute, because no one said to be a tourist you need to look like a tourist! </span></p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<div>
+<span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>“</span></span></span><meta charset="utf-8">
+<span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'><span data-sheets-value='{"1":2,"2":"Not only does this backpack look sick AF, I literally wanted a bag that EVERYONE can take with them on all their travels but like it has all these crazy features that gamers, moms, kids, boys and girls would love and use!"}' data-sheets-userformat='{"2":14846,"4":[null,2,16776960],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"11":4,"14":[null,2,2051704],"15":"Calibri","16":12}'>This is one of our smallest but mightiest. Organized to a t - this bag is low impact and petite, but packs in enough space for all of the essentials. You can easily use this as a glorified wallet and phone holder, throwing it in the Weekender, Backpack or Work Tote while heading to the airport, and pulling it out when you arrive at your destination to explore totally unencumbered. </span></span>—Shay"</div>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><b><i>REMOVABLE MINI-WALLET</i></b><br>Small wallet, big bank account.<br><b><i>ADJUSTABLE STRAP WITH BUCKLE</i></b><br>Multiple ways to slay.<br><b><i>BRAIDED STRAP</i></b><br>Because Fashion.<br><b><i>BODYSIDE SECURITY POCKET<br></i></b><i>For the important stuff.</i></p>
+<p class="p1"><b><i> </i></b></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>backpack</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>mini crossbody</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>tag-limited</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_mini_crossbody</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5077599977608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>BEIS320003</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/4434575687816</id>
+    <published>2020-02-04T08:50:03-08:00</published>
+    <updated>2020-02-04T08:50:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-convertible-weekender-in-black"/>
+    <title>The Convertible Weekender in Black</title>
+    <s:type>the convertible weekender</s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_ConvertibleWeekender_Black_12026.jpg?v=1622094242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong>the convertible weekender<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1">Taking inspiration from our OG weekender, we designed this brand new convertible weekender to take you even further! Features a fully removable bottom compartment that doubles as a packing cube, with a mesh zip-cover. Voila! Now your weekender becomes a compact daytime excursion bag. Wait, not done yet - also includes a removable padded laptop sleeve with exterior pockets, to save you from that awkward moment when you hold up the security line. Easy-access opening makes getting everything in and out a breeze (no flashlight required). Hello, versatility!</p>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Dims: 19"W x 10"D x 16"H</span><br data-mce-fragment="1"><span data-mce-fragment="1">Material: Body - Cotton/Polyester, Trim - PVC, Strap - Polyester, Lining - Polyester</span><br data-mce-fragment="1"><span data-mce-fragment="1">Care: Spot Clean</span><br data-mce-fragment="1"><span data-mce-fragment="1">Weight : 3.86lbs </span> </p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">EXTERIOR<br>-Rolled shoulder straps for easy carry, adjustable-removable shoulder/crossbody strap<br>-Wire frame double zip opening/closure, opens wide to see inside<br>-Double zip removable bottom compartment with water resistant lining<br>-Trolley pass through with zipper, to create pocket when not in use<br>-External zip pocket for small items<br>INTERIOR<br>-Padded laptop sleeve pocket with Velcro strap closure<br>-Large zip pocket and two small slip pockets<br>-Lined with durable, easy to wipe clean, polyester, water-resistant lining<br>Key-ring strap with dog clip to attach keys for quick access<br>PERFECT FOR<br>-Long Weekends<br>-Carry-On Status<br>-Day Trips<br>-Baby Bag<br>-Work Bag<br>-Gym Bag<br>-Everyday Bag<br>-Pet Bag <br><br></p>
+<p class="p1"> </p>
+<p class="p1"> </p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>buffalo pu</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>convertible weekender</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>tag-back-in-stock</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>Wet/Dry Bag</s:tag>
+    <s:tag>YGroup_convertible_weekender</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/4434575687816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>BEIS220299</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+</feed>

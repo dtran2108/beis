@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Brandon Grotesque Regular';
+  src: url('~/assets/font/fonts/BrandonGrotesque-Regular.woff');
+}
+
+body {
+  font-family: 'Brandon Grotesque Regular';
+  font-size: 16px;
+}
+
+.fostr-header {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  left: 0;
+  pointer-events: none;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 100;
+}
+
+.fostr-header__navigation__logo {
+  height: 40px;
+  width: 68px;
+}
+
+.fostr-header__navigation__logo svg {
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 900px) {
+  .fostr-header__navigation {
+    padding: 0 40px;
+    background: #ebd9c8;
+    background-size: unset;
+    background-position: unset;
+  }
+}
+
+.fostr-header__navigation {
+  -ms-flex-align: center;
+  align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  height: 75px;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0 40px;
+  pointer-events: all;
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(to right, #fff 50%, #ebd9c8 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all ease 0.3s;
+}

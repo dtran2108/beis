@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://beistravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://beistravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://beistravel.com/collections/wallets-and-wristlets.atom"/>
+  <title>Béis</title>
+  <updated>2021-05-18T08:57:54-07:00</updated>
+  <author>
+    <name>Béis</name>
+  </author>
+  <entry>
+    <id>https://beistravel.com/products/6555803517064</id>
+    <published>2021-05-18T08:57:54-07:00</published>
+    <updated>2021-05-18T08:57:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-sport-wristlet-set"/>
+    <title>The Sport Wristlet Set</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_WaterbottleSling_Beige_12441.jpg?v=1622147410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%" data-mce-fragment="1" data-mce-selected="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><strong data-mce-fragment="1">Description</strong></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1">
+<meta charset="utf-8">
+<span>At first glance this little beauty might look like a cute wristlet, but she is SO much more. Each piece was designed so that you could carry them as a set or individually. The d-ring on each pouch can also be attached to the inside of any BÉIS bag, using our signature key fob (you can find this on interior seam of every BÉIS bag). Even better, the small snap card case comes with a scruchie, take it for a spin on it's own and never have a reason you can't pull your hair back!</span>
+</div>
+<p class="p1" data-mce-fragment="1"> </p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><b>Specifications</b></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<p data-mce-fragment="1">Dims: CREDIT CARD HOLDER: 2.625"H x 3.875"W<br> ROUND ZIP POUCH: 3.5"W X 3.5"H<br> RECTANGLE ZIP POUCH: 4.25"H X 7.5"W<br>Materials: CREDIT CARD HOLDER: Exterior - PU, Interior - Recycled Poly<br>ROUND AND RECTANGLE POUCHES: Exterior - Wrinkle Nylon, Interior - Recycled Poly <br>STRAP: Macrame Nylon Paracord<br>Care: Spot Clean, Lay Flat to Dry</p>
+<p data-mce-fragment="1"> </p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><strong data-mce-fragment="1">Details</strong></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1">DETAILS:<br>The perfect set of accessories to keep all your gym (and beyond) needs organized<br>3 different pouches: <br>1 round zip pouch with an interior elasticized slip pocket - perfect for airpods, earbuds, hair accessories, jewelry<br>1 long zip pouch - perfect for cash, a few makeup items<br>1 snap envelope pouch perfect for cards - includes a removable scrunchie that can be used to slip the pouch on your wrist or throwing your hair in a pony<br>Multiple ways to carry<br>Carry all three together or individually with the provided braided paracord wristlet strap<br>D-rings on each style so you can easily clip into any BEIS bag’s included key leash<br>The envelope pouch can slip onto wrist alone using removable scrunchie <br>How you can move with this product <br>On-the-go - hike, bike, walk, run, skip, jump, skate<br>The perfect necessities only gym companion</div>
+<p class="p1" data-mce-fragment="1"> </p>
+<p class="p1" data-mce-fragment="1"> </p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Nylon</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Personal Item</s:tag>
+    <s:tag>tag-new</s:tag>
+    <s:tag>The Gym Goer</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/6555803517064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>BEIS121046</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/4290093023368</id>
+    <published>2019-10-23T09:00:07-07:00</published>
+    <updated>2019-10-23T09:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-passport-luggage-tag-set-in-beige-1"/>
+    <title>The Passport &amp; Luggage Tag Set in Beige</title>
+    <s:type>Luggage Accessories</s:type>
+    <s:vendor>Beach House Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_LuggagePassportSet_Beige_12542.jpg?v=1622138663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beach House Group<br>
+        <strong>Type: </strong>Luggage Accessories<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>What you need when you're on the go, full stop. A Passport Holder that acts as a mini wallet, a luggage tag to stylishly mark your territory, and a bonus clear pouch for all your last minute essentials and liquids. Feel like the most experienced traveler, even if it's your first flight!</span></p>
+<p class="p1"> </p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<p>"<span>This is an essential trio for any serious traveler. I wanted to have something to identify your precious luggage, and to protect one of our most important possessions - our passports - while traveling. The clear bag is perfect for tossing mini-bottles in to the weekender for easy grabbing at security.</span>" - Shay </p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>4-PIECE SET <br>Ready, set, go.<br></span>CLEAR POUCH <br>3-1-1, here we come! <br>PEN HOLDER + PEN <br>No more asking your neighbor. <br>CARD HOLDER <br>Keep it together—just don’t lose it. <br>GOLD LOGO <br>Baggage claim meets a bit of bling.<br><br></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Luggage Collection</s:tag>
+    <s:tag>passport</s:tag>
+    <s:tag>passport case</s:tag>
+    <s:tag>tag-sale</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Vegan Leather</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_travel_set</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/4290093023368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>BEIS219229</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/4290093547656</id>
+    <published>2019-10-23T09:00:06-07:00</published>
+    <updated>2019-10-23T09:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-passport-luggage-tag-set-in-black"/>
+    <title>The Passport &amp; Luggage Tag Set in Black</title>
+    <s:type>Luggage Accessories</s:type>
+    <s:vendor>Beach House Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_LuggagePassportSet_Black_12546.jpg?v=1621020797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beach House Group<br>
+        <strong>Type: </strong>Luggage Accessories<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>What you need when you're on the go, full stop. A Passport Holder that acts as a mini wallet, a luggage tag to stylishly mark your territory, and a bonus clear pouch for all your last minute essentials and liquids. Feel like the most experienced traveler, even if it's your first flight!</span></p>
+<p class="p1"> </p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<p>"<span>This is an essential trio for any serious traveler. I wanted to have something to identify your precious luggage, and to protect one of our most important possessions - our passports - while traveling. The clear bag is perfect for tossing mini-bottles in to the weekender for easy grabbing at security.</span>" - Shay </p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>4-PIECE SET <br>Ready, set, go. <br>CLEAR POUCH <br>3-1-1, here we come! <br>PEN HOLDER + PEN <br>No more asking your neighbor. <br>CARD HOLDER <br>Keep it together—just don’t lose it. <br>GOLD LOGO <br>Baggage claim meets a bit of bling.<br></span><span><br></span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Luggage Collection</s:tag>
+    <s:tag>passport</s:tag>
+    <s:tag>passport case</s:tag>
+    <s:tag>The Travel Set in Black</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Vegan Leather</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_travel_set</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/4290093547656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>BEIS219230</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/2238695080047</id>
+    <published>2019-06-12T09:00:01-07:00</published>
+    <updated>2019-06-12T09:00:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-travel-set-in-black"/>
+    <title>The Passport &amp; Luggage Tag Set in Black Patent</title>
+    <s:type>Luggage Accessories</s:type>
+    <s:vendor>Beach House Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/set_bb09a25c-fabc-4588-85ee-d6de2088021b.jpg?v=1568932384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beach House Group<br>
+        <strong>Type: </strong>Luggage Accessories<br>
+        <strong>Price: </strong>
+            23.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>What you need when you're on the go, full stop. A Passport Holder that acts as a mini wallet, a luggage tag to stylishly mark your territory, and a bonus clear pouch for all your last minute essentials and liquids. Feel like the most experienced traveler, even if it's your first flight!</span></p>
+<p class="p1"> </p>
+</td>
+</tr>
+<tr>
+<td>Shay's Inspo</td>
+</tr>
+<tr>
+<td>
+<p>"<span>This is an essential trio for any serious traveler. I wanted to have something to identify your precious luggage, and to protect one of our most important possessions - our passports - while traveling. The clear bag is perfect for tossing mini-bottles in to the weekender for easy grabbing at security.</span>" - Shay </p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>4-PIECE SET <br>Ready, set, go. <br>CLEAR POUCH <br>3-1-1, here we come! <br>PEN HOLDER + PEN <br>No more asking your neighbor. <br>CARD HOLDER <br>Keep it together—just don’t lose it. <br>GOLD LOGO <br>Baggage claim meets a bit of bling.<br></span><span><br></span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Luggage Collection</s:tag>
+    <s:tag>passport</s:tag>
+    <s:tag>passport case</s:tag>
+    <s:tag>spring sale</s:tag>
+    <s:tag>The Travel Set in Black</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Vegan Leather</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_travel_set</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/2238695080047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.80</s:price>
+      <s:sku>BEIS019144</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

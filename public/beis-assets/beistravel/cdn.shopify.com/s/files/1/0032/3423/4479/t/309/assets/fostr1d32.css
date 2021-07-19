@@ -1,0 +1,1043 @@
+.temp-fullscreen-promo {
+  position: relative;
+}
+.temp-fullscreen-promo__text {
+  padding-top: 150px;
+}
+.temp-fullscreen-promo__img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.overflow-hidden {
+  overflow: hidden !important;
+}
+.temp-container-fluid-restrained {
+  width: 100%;
+  max-width: 1630px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.temp-marg-top--xl {
+  margin-top: 60px;
+}
+.temp-arrow-1 {
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  text-align: right;
+}
+.temp-heading-1 {
+  font-size: 58px;
+}
+.temp-heading-2 {
+  font-size: 52px;
+}
+.temp-heading-3 {
+  font-size: 50px;
+}
+.temp-heading-4 {
+  font-size: 38px;
+}
+.temp-marg-1 {
+  margin-top: 95px;
+  margin-bottom: 25px;
+}
+.temp-marg-2 {
+  margin-top: 35px;
+  margin-bottom: 120px;
+}
+.temp-marg-3 {
+  margin-top: 35px;
+  margin-bottom: 55px;
+}
+.temp-marg-4 {
+  margin: 90px 30px 0;
+}
+.temp-marg-5 {
+  margin-top: 30px;
+  margin-bottom: 115px;
+}
+.temp-marg-6 {
+  margin-top: 160px;
+  margin-bottom: 25px;
+}
+.temp-marg-7 {
+  margin-bottom: 50px;
+}
+.temp-marg-8 {
+  margin-bottom: 150px;
+}
+.temp-marg-9 {
+  margin-top: 25px;
+  margin-bottom: 130px;
+}
+.temp-txt-1,
+.temp-txt-1 p {
+  font-family: 'Brandon Grotesque Regular';
+  font-size: 22px;
+}
+.temp-txt-2,
+.temp-txt-2 p {
+  font-family: 'Brandon Grotesque Regular';
+  font-size: 20px;
+}
+.temp-btn-large {
+  font-size: 18px;
+  white-space: normal;
+  line-height: 1.5;
+  padding: 15px 40px;
+  font-family: 'Brandon Grotesque Bold';
+  border-width: 2px;
+}
+.temp-btn-light {
+  border-color: #fff;
+  color: #fff;
+}
+.temp-img-txt {
+  position: relative;
+}
+.temp-img-txt__txt {
+  position: absolute;
+  left: 100%;
+  bottom: 0;
+  transform: rotate(-90deg);
+  transform-origin: 0% 100%;
+  white-space: nowrap;
+}
+.temp-img-txt__l1 {
+  font-family: 'Brandon Grotesque Bold';
+  line-height: 1.3;
+  font-size: 48px;
+}
+.temp-img-txt__l2 {
+  font-family: 'Brandon Grotesque Regular';
+  line-height: 1.3;
+  font-size: 16px;
+}
+.temp-img-txt__inner {
+  margin-bottom: 30px;
+  margin-left: 95px;
+}
+.temp-pull-1 {
+  margin-top: -150px;
+}
+.temp-pad-pull-1 {
+  padding-top: 150px;
+}
+.temp-pull-2 {
+  margin-top: -250px;
+}
+.temp-pad-pull-2 {
+  padding-bottom: 250px;
+}
+.temp-pull-3 {
+  margin-top: -220px;
+}
+.temp-pad-pull-3 {
+  padding-bottom: 220px;
+}
+.temp-z-1 {
+  z-index: 1;
+}
+.temp-txt-light,
+.temp-txt-light p {
+  color: #fff;
+}
+.temp-bg-white {
+  background-color: #fff;
+}
+.temp-products-carousel__slide {
+  padding: 0 20px;
+}
+@media only screen and (min-width: 768px) {
+  .temp-fullscreen-promo__text {
+    padding-top: 380px;
+    margin-top: 235px;
+  }
+  .home-wanderlust {
+    padding-top: 0 !important;
+  }
+  .temp-overrun-text {
+    width: 160%;
+    transform: translateX(-38%);
+  }
+  .temp-marg-top--xl {
+    margin-top: 180px;
+  }
+  .temp-arrow-1 {
+    margin-bottom: 14.444vh;
+    text-align: center;
+  }
+  .temp-heading-1 {
+    font-size: 68px;
+  }
+  .temp-heading-2 {
+    line-height: 1.1;
+    font-size: 9vw;
+  }
+  .temp-heading-3 {
+    font-size: 40px;
+  }
+  .temp-heading-4 {
+    font-size: 68px;
+  }
+  .temp-marg-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  .temp-marg-2 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .temp-marg-3 {
+    margin-top: 35px;
+    margin-bottom: 200px;
+  }
+  .temp-marg-4 {
+    margin-top: 120px;
+    margin-bottom: 120px;
+  }
+  .temp-marg-5 {
+    margin-top: 70px;
+    margin-bottom: 150px;
+  }
+  .temp-marg-6 {
+    margin-top: 200px;
+    margin-bottom: 40px;
+  }
+  .temp-marg-7 {
+    margin-bottom: 70px;
+  }
+  .temp-marg-8 {
+    margin-bottom: 210px;
+  }
+  .temp-pull-1 {
+    margin-top: -380px;
+  }
+  .temp-pad-pull-1 {
+    padding-top: 380px;
+  }
+  .temp-pull-2 {
+    margin-top: -450px;
+  }
+  .temp-pad-pull-2 {
+    padding-bottom: 450px;
+  }
+  .temp-pull-3 {
+    margin-top: -600px;
+  }
+  .temp-pad-pull-3 {
+    padding-bottom: 600px;
+  }
+  .temp-products-carousel__slide {
+    padding: 0 75px;
+  }
+}
+@media (min-width: 992px) {
+  .temp-heading-2 {
+    font-size: 9vw;
+  }
+}
+@media (min-width: 1200px) {
+  .temp-heading-2 {
+    font-size: 9vw;
+  }
+}
+@media (min-width: 1680px) {
+  .temp-heading-2 {
+    font-size: 130px;
+  }
+}
+.diaper-strong {
+  font-family: 'Brandon Grotesque Bold';
+}
+.diaper-price {
+  margin: 20px 0 30px;
+  display: block;
+  font-size: 13px;
+}
+.diaper-h1 {
+  font-size: 58px;
+  font-family: 'Canela Bold';
+  margin-bottom: 40px;
+  white-space: pre-wrap;
+  letter-spacing: 0.05em;
+}
+.diaper-h2 {
+  font-size: 40px;
+  margin-bottom: 40px;
+  font-family: 'Canela Bold';
+  line-height: 1.45;
+  letter-spacing: 0.05em;
+}
+.diaper-h3 {
+  font-size: 16px;
+  font-family: 'Brandon Grotesque Bold';
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.diaper-lede,
+.diaper-lede p {
+  font-size: 20px;
+  font-family: 'Brandon Grotesque Regular';
+  line-height: 1.5;
+}
+.diaper-lede--top {
+  margin-bottom: 50px;
+}
+.diaper__image-roundel-wrapper {
+  position: relative;
+}
+.diaper-small,
+.diaper-small p {
+  font-size: 16px;
+  font-family: 'Brandon Grotesque Regular';
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+}
+.diaper-reg,
+.diaper-reg p {
+  font-size: 20px;
+  font-family: 'Brandon Grotesque Regular';
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+}
+.diaper-video {
+  width: 100%;
+  height: auto;
+  line-height: 0;
+}
+.diaper__no-line-height {
+  line-height: 0;
+}
+.baby-bundle__price-block {
+  margin-bottom: 35px;
+}
+.baby-bundle__price-block ~ button {
+  margin-left: 0;
+}
+.bundle__price--strikethrough {
+  margin-right: 10px;
+  position: relative;
+  padding: 0 10px;
+}
+.bundle__price--strikethrough::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #000;
+}
+.diaper-availability {
+  font-family: 'Brandon Grotesque Bold';
+  white-space: pre-wrap;
+  margin-bottom: 30px;
+}
+.diaper-btn {
+  max-width: 260px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.diaper-btn:focus {
+  color: #fff;
+  border-color: #000;
+  background-color: #000;
+  box-shadow: 0 0 3px 3px rgba(0, 123, 255, 0.25);
+}
+.diaper-btn.temp-btn-dark:focus {
+  color: #000;
+  border-color: #fff;
+  background-color: #fff;
+}
+.diaper-z-1 {
+  z-index: 1;
+}
+.diaper__early-break {
+  max-width: 550px;
+}
+div.stroller-caddy-promo__row1-img {
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 50%;
+  width: 100% !important;
+  overflow: hidden;
+  position: absolute;
+  padding-right: 0;
+  display: block;
+  line-height: 0;
+}
+div.stroller-caddy-promo__row1-img > a {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 0;
+}
+div.stroller-caddy-promo__row1-img > a > div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 55%;
+  line-height: 0;
+}
+@media only screen and (min-width: 768px) and (max-width: 962px) {
+  div.stroller-caddy-promo__row1-img {
+    height: 40%;
+  }
+}
+@media only screen and (min-width: 972px) {
+  .diaper-constrain-width--left {
+    padding-left: 120px !important;
+  }
+  .diaper-constrain-width--right {
+    padding-right: 120px !important;
+  }
+}
+@media only screen and (min-width: 1300px) {
+  .diaper-constrain-width {
+    padding-right: 100px !important;
+    padding-left: 100px !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .stroller-caddy-promo {
+    margin-bottom: 40px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .diaper-small,
+  .diaper-small p {
+    font-size: 20px;
+  }
+  .diaper-constrain-text {
+    max-width: 35em;
+  }
+  .diaper-constrain-width {
+    width: 100%;
+    max-width: 1630px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .diaper-constrain-width--left {
+    width: 100%;
+    max-width: 1630px;
+    padding-left: 70px;
+  }
+  .diaper-constrain-width--right {
+    width: 100%;
+    max-width: 1630px;
+    padding-left: 70px;
+  }
+  .diaper-btn {
+    max-width: 300px;
+  }
+  .diaper-h2 {
+    font-size: 68px;
+  }
+  .diaper-h3 {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  .diaper-lede {
+    font-size: 22px;
+  }
+  .diaper-availability {
+    white-space: normal;
+  }
+  .diaper-medium-up-ws-normal {
+    white-space: normal;
+  }
+  .diaper-cols {
+    display: flex;
+  }
+  .diaper-cols--reverse {
+    flex-direction: row-reverse;
+  }
+  .diaper-cols > * {
+    width: 50%;
+  }
+  .diaper-cols--pad > :first-child {
+    padding-right: 45px;
+  }
+  .diaper-cols--pad > :last-child {
+    padding-left: 45px;
+  }
+  .diaper-cols--reverse.diaper-cols--pad > :first-child {
+    padding-left: 45px;
+    padding-right: 0;
+  }
+  .diaper-cols--reverse.diaper-cols--pad > :last-child {
+    padding-right: 45px;
+    padding-left: 0;
+  }
+  .diaper-heading-pull-left {
+    transform: translateX(-1.73em) translateY(-0.1ex);
+    margin-right: -1.73em;
+  }
+  .diaper-heading-pull-left-2 {
+    transform: translateX(-0.9em);
+    margin-right: -0.9em;
+  }
+}
+@media only screen and (min-width: 850px) {
+  .diaper-constrain-width {
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  .diaper-h1 {
+    font-size: 150px;
+    line-height: 1.05;
+  }
+  .diaper-heading-pull-left {
+    transform: translateX(-1em) translateY(-0.1ex);
+    margin-right: -1em;
+  }
+}
+@media only screen and (min-width: 1680px) {
+  .diaper-btn {
+    font-size: 13px;
+  }
+}
+.diaper-hero {
+  height: calc(100vh - 75px);
+}
+.diaper-hero video {
+  width: 100%;
+}
+.diaper-hero__arrow {
+  margin-bottom: 45px;
+}
+.diaper-hero__arrow svg {
+  display: block;
+  margin: 0 auto;
+}
+.diaper-panel {
+  margin-bottom: 40px;
+}
+.baby-hero-mobile video {
+  min-width: 100%;
+}
+@media only screen and (min-width: 768px) {
+  .diaper-hero {
+    height: calc(100vh - 85px);
+  }
+  .diaper-hero__arrow {
+    margin-bottom: 75px;
+  }
+  .diaper-hero .diaper-h2 {
+    white-space: pre-wrap;
+  }
+  .diaper-panel {
+    margin-bottom: 30px;
+  }
+}
+.diaper-two-offers {
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 85px;
+}
+.diaper-two-offers__txt {
+  padding: 0 30px;
+  padding-top: 50px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-family: 'Brandon Grotesque Regular';
+  line-height: 1.5;
+}
+.diaper-two-offers__offers {
+  padding: 0 30px;
+  padding-top: 30px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  max-width: 49em;
+}
+.diaper-two-offers__offers p {
+  padding: 10px 0;
+  font-size: 18px;
+}
+@media only screen and (max-width: 749px) {
+  .diaper-two-offers__offers {
+    max-width: 275px;
+  }
+}
+@media only screen and (min-width: 750px) {
+  .diaper-two-offers__offers {
+    flex-direction: row;
+  }
+  .diaper-two-offers__offers p {
+    padding: 0;
+  }
+  .diaper-two-offers__offers p:nth-of-type(2) {
+    padding: 0 30px;
+    margin: auto;
+  }
+}
+.diaper-360-promo {
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 85px;
+}
+.diaper-360-promo__txt {
+  padding: 0 30px;
+  padding-top: 30px;
+  margin: 0 auto;
+}
+.diaper-360-promo__atc .product__price {
+  margin: 25px 0 35px;
+}
+.diaper-360-promo__360s {
+  margin-bottom: 30px;
+}
+.diaper-360-promo__360s img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.diaper-360-promo__360s .diaper-360-spin {
+  margin: 0 auto;
+}
+.diaper-360-promo__360s_cta {
+  margin-bottom: 20px;
+}
+.diaper-360-promo__360s_cta p {
+  margin: 15px 0;
+}
+.diaper-360-promo__swatch {
+  margin: 20px 10px 10px;
+}
+@media only screen and (max-width: 767px) {
+  .diaper-360-promo__360s_cta {
+    margin-top: 10px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .diaper-360-promo {
+    padding-bottom: 150px;
+  }
+  .diaper-360-promo__txt {
+    padding-top: 70px;
+  }
+  .diaper-360-promo__360s {
+    max-width: 55%;
+    margin: 0 auto;
+  }
+}
+.baby-bag-promo {
+  background-color: #fff;
+  position: relative;
+}
+.baby-bag-promo img {
+  display: block;
+}
+.baby-bag-promo__roundel {
+  position: absolute;
+  top: -50px;
+  left: 25px;
+  z-index: 1;
+}
+.baby-bag-promo__roundel--top {
+  top: -80px;
+  bottom: auto;
+  right: auto;
+  left: 25px;
+  transform: none;
+}
+.baby-bag-promo__roundel svg {
+  display: block;
+  width: 130px;
+  height: auto;
+}
+.baby-bag-promo__img {
+  position: relative;
+  margin-bottom: 120px;
+}
+.baby-bag-promo__img.baby-bag-promo__img--no-margin {
+  margin-bottom: 0;
+}
+@media only screen and (max-width: 850px) {
+  .baby-bag-promo__img {
+    padding-bottom: 50px;
+  }
+}
+@media only screen and (min-width: 900px) {
+  .baby-bag-promo__top-panels {
+    padding-left: 30px;
+  }
+}
+.baby-bag-promo__bottom-panels {
+  padding: 0 30px 25px;
+  margin-top: 40px;
+}
+@media only screen and (min-width: 768px) {
+  .baby-bag-promo__top-panels {
+    padding: 0;
+  }
+  .baby-bag-promo__roundel svg {
+    width: 200px;
+    height: auto;
+  }
+  .baby-bag-promo__bottom-panels {
+    margin-top: 30px;
+  }
+  .diaper__heading-margin {
+    margin-top: 40px;
+  }
+}
+@media only screen and (min-width: 850px) {
+  .baby-bag-promo__top-panels {
+    padding-left: 30px;
+  }
+  .baby-bag-promo__bottom-panels {
+    padding-left: 0;
+  }
+  .baby-bag-promo {
+    padding: 0 30px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .baby-bag-promo__top-panels {
+    padding: 0 30px;
+    padding-left: 60px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .bottle-bag-promo-3 .diaper__promo-atc {
+    margin-top: 40px;
+  }
+}
+.stroller-caddy-promo {
+  padding-bottom: 5px;
+  background: #fff;
+  background: linear-gradient(180deg, #fff 50%, #ebd9c8 50%);
+}
+@media only screen and (min-width: 768px) and (max-width: 962px) {
+  .stroller-caddy-promo {
+    background: linear-gradient(180deg, #fff 40%, #ebd9c8 40%);
+  }
+  .stroller-caddy-promo div.diaper-reg.diaper__early-break {
+    margin-bottom: 50px;
+  }
+}
+.stroller-caddy-promo .stroller-pad {
+  padding-right: 0;
+  margin-right: 0;
+}
+.stroller-caddy-promo__row1-txt {
+  margin: 70px 0 115px;
+  padding: 30px;
+}
+@media only screen and (max-width: 768px) {
+  .stroller-caddy-promo__row1-txt {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+.stroller-caddy-promo__row2-img {
+  position: relative;
+  margin-bottom: 70px;
+}
+@media only screen and (max-width: 767px) {
+  .stroller-caddy-promo__row2-img {
+    margin-top: -30px;
+  }
+}
+.stroller-caddy-promo__row2-img .stroller-caddy-promo__row2__roundel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translateY(-80%);
+}
+.stroller-caddy-promo__row2__roundel img {
+  width: 204px;
+  height: auto;
+}
+.stroller-caddy-promo__row2-txt {
+  position: relative;
+  top: 50%;
+  padding: 30px;
+}
+@media only screen and (min-width: 768px) {
+  .stroller-caddy-promo {
+    padding-top: 180px;
+    padding-bottom: 150px;
+  }
+  .stroller-caddy-promo__row2-txt {
+    margin-top: 100px;
+    margin-left: 0;
+    padding: 0;
+  }
+  .stroller-caddy-promo__row2__roundel img {
+    width: 277px;
+  }
+  .stroller-caddy-promo__row1-txt {
+    margin-top: 0;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 962px) {
+  .stroller-caddy-promo__row2-txt {
+    margin-top: 260px;
+    margin-left: 70px;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 962px) {
+  .stroller-caddy-promo div.section-white.text-center {
+    margin-top: 210px;
+  }
+  .stroller-caddy-promo__row2-txt {
+    margin-left: -40px;
+  }
+}
+.bottle-bag-promo-3 {
+  padding: 1px 30px 90px;
+  background-color: #fff;
+}
+.bottle-bag-promo-3__row1-txt {
+  margin: 70px 0 40px;
+}
+.bottle-bag-promo-3__row2-img {
+  margin-bottom: 70px;
+}
+@media only screen and (min-width: 768px) {
+  .bottle-bag-promo-3__row1-txt {
+    margin-bottom: 180px;
+  }
+  .bottle-bag-promo-3__row2-img {
+    position: absolute;
+    bottom: -50px;
+    right: -200px;
+    margin-bottom: 0;
+    width: 55%;
+    z-index: 1;
+  }
+  .diaper__promo-atc {
+    margin-top: 100px;
+  }
+  .diaper__promo-3__h1 {
+    white-space: initial;
+    display: block;
+    position: relative;
+    text-align: right;
+  }
+  .diaper__promo-3__h1 > div {
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    max-width: 800px;
+  }
+  .diaper__align-right {
+    text-align: right;
+  }
+  .diaper__coordinates {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 160px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 962px) {
+  .bottle-bag-promo-3__row2-img {
+    right: -240px;
+  }
+}
+@media only screen and (min-width: 972px) {
+  .diaper__coordinates {
+    top: 40px;
+    left: 80px;
+    width: 250px;
+  }
+}
+.bottle-bag-promo-3__row2__roundel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translateY(-80%);
+}
+.bottle-bag-promo-3__row2__roundel img {
+  width: 204px;
+  height: auto;
+}
+.diaper__full-width-image {
+  position: relative;
+  left: -30px;
+  width: 100vw;
+}
+@media only screen and (min-width: 768px) {
+  .bottle-bag-promo-3 {
+    padding-top: 180px;
+    padding-bottom: 150px;
+  }
+  .bottle-bag-promo-3__row2-txt {
+    margin-top: -50px;
+    margin-left: 70px;
+    max-width: 350px;
+  }
+  .bottle-bag-promo-3__row2__roundel img {
+    width: 277px;
+  }
+  .bottle-bag-promo-3__row1-txt {
+    position: relative;
+    margin-top: 0;
+  }
+  .bottle-bag-promo-3 .diaper-price {
+    margin: 35px 0 70px;
+  }
+  .diaper__floating-text-container {
+    position: relative;
+  }
+  .diaper__floating-text {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    max-width: 350px;
+  }
+}
+.baby-bag-promo--alt {
+  padding-top: 70px;
+  padding-bottom: 95px;
+}
+.baby-bag-promo--alt .baby-bag-promo__top-panels {
+  margin-bottom: 45px;
+}
+.baby-bag-promo--alt .baby-bag-promo__img {
+  margin-bottom: 60px;
+}
+.baby-bag-promo--alt .baby-bag-promo__bottom-panels {
+  padding-bottom: 0;
+}
+.baby-bag-promo__atc {
+  padding: 0 30px;
+}
+.baby-bundle-promo {
+  padding: 90px 30px 80px;
+}
+.baby-bundle-promo__header {
+  margin-bottom: 45px;
+}
+.baby-bundle-promo__images {
+  margin-top: 60px;
+  display: flex;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+}
+.baby-bundle-promo__images > * {
+  width: 33.333%;
+  padding-right: 2.5px;
+  padding-left: 2.5px;
+}
+div.diaper__bordered-column {
+  width: 100%;
+}
+div.diaper__bordered-section {
+  position: relative;
+  border: none;
+}
+@media only screen and (min-width: 768px) {
+  div.diaper__bordered-section {
+    margin-right: 200px;
+    border: 10px solid #ebd9c8;
+  }
+}
+div.diaper__overlay-image {
+  position: relative;
+  top: -100px;
+  left: -40px;
+}
+@media only screen and (min-width: 972px) {
+  div.diaper__overlay-image {
+    position: relative;
+    top: -180px;
+    left: -80px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .diaper-bundle__swatches {
+    text-align: center;
+  }
+  .baby-bundle__price-block {
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .baby-bundle-promo {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .baby-bundle-promo__header {
+    margin-bottom: 35px;
+  }
+  .baby-bundle-promo__images {
+    margin-left: -7.5px;
+    margin-right: -7.5px;
+  }
+  .baby-bundle-promo__images > * {
+    padding-right: 7.5px;
+    padding-left: 7.5px;
+  }
+  .baby-bundle-promo .btn {
+    margin-left: 0;
+  }
+  .baby-bundle-promo__images {
+    margin-top: 110px;
+  }
+}
+.diaper-bundle__swatches {
+  margin-bottom: 20px;
+}
+.diaper-bundle__swatches .bundle-color-picker::before {
+  top: -1px;
+  left: -1px;
+  width: 37px;
+  height: 37px;
+}
+.diaper-bundle__swatches .bundle-color-picker::after {
+  display: block;
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  content: '';
+  border: 2px solid;
+  border-radius: 50%;
+  width: 41px;
+  height: 41px;
+  background-color: #fff;
+  z-index: -1;
+  border: 1px solid transparent;
+}
+.diaper-bundle__swatches .bundle-color-picker {
+  display: inline-block;
+  margin: 16px 10px;
+}
+.bundle-color-picker:focus::after,
+.diaper-bundle__swatches .bundle-color-picker,
+.diaper-bundle__swatches .bundle-color-picker:active,
+.diaper-bundle__swatches .bundle-color-picker:focus {
+  outline: 0;
+  box-shadow: none;
+}
+.diaper-bundle__swatches .bundle-color-picker.is-active::after {
+  border: 1px solid #000;
+}
+.diaper-wanderlust-promo {
+  background-color: #fff;
+  padding-top: 1px;
+}
+@media only screen and (min-width: 768px) {
+  .diaper-wanderlust-promo #shopify-section-homepage-wanderlust {
+    margin-top: 60px;
+  }
+}

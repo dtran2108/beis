@@ -7,6 +7,8 @@ import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 import 'aos/dist/aos.css';
 // aos
 
+import '~/assets/styles.css';
+
 import React from 'react';
 import { useStore } from '~/redux/store';
 import { Provider } from 'react-redux';

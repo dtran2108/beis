@@ -62,6 +62,9 @@ const Meta = (props) => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+
+      {/* FONTS */}
+      <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" />
     </Head>
   );
 };

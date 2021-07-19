@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://beistravel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://beistravel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://beistravel.com/collections/backpacks.atom"/>
+  <title>Béis</title>
+  <updated>2021-03-16T08:54:40-07:00</updated>
+  <author>
+    <name>Béis</name>
+  </author>
+  <entry>
+    <id>https://beistravel.com/products/6544056221832</id>
+    <published>2021-03-16T08:54:40-07:00</published>
+    <updated>2021-03-16T08:54:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-pumping-backpack"/>
+    <title>The Pumping Backpack</title>
+    <s:type>Diaper Bag</s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_PumpingBackpack_Black_12253.jpg?v=1622139050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong>Diaper Bag<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div></div>
+<div>
+<span data-mce-fragment="1">Believe it or not, the BEIS office is no stranger to the whirring sound of a breast pump. We are pretty open about our needs when it comes to how we tote around our stuff and the need to have a place to stash your breast pump was not lost on this team! The genius lies in the fact that this doubles as Mama's work bag, comes with a removable pouch for storing parts, keeping them separate, easy to grab and clean as well as the bonus of not looking like you're carrying around a glorified milk-machine! We've added an insulated compartment in this backpack to easily and safely get that liquid gold from point A to point B.</span><br>
+</div>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<div>Dims: 14" W x 16" H x 7" D<br>Materials: Body: Nylon Twill, Trim: Buffalo PU, Jelly PVC (Pouch), Lining: 100% Poly, Hardware: Zinc Alloy<br>Care: Spot Clean<br>Weight: 2.5lbs</div>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div>EXTERIOR<br>- compartment specifically for your pump ( fit's most pumps)- with a zipper opening <br> to feed tubes through on the exterior and an opening to feed the power cord through<br>- padded shoulder straps<br>- top handles - easy to grab and go<br>- 4 exterior slip pockets<br>- trolley sleeve<br>INTERIOR<br>- interior zip pocket<br>- padded laptop sleeve<br>- 2 interior slip pockets<br>- comes with water proof zip pouch<br>PERFECT FOR<br>-Baby Needs<br data-mce-fragment="1">-Travel<br data-mce-fragment="1">-Work Tote<br data-mce-fragment="1">-Carry-on<br>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2+ Bags In One</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>daiper</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>diaper</s:tag>
+    <s:tag>diaper bag</s:tag>
+    <s:tag>diaperbag</s:tag>
+    <s:tag>dip</s:tag>
+    <s:tag>diper</s:tag>
+    <s:tag>diper bag</s:tag>
+    <s:tag>dipper</s:tag>
+    <s:tag>dipper bag</s:tag>
+    <s:tag>dopper</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>maternity</s:tag>
+    <s:tag>mommy</s:tag>
+    <s:tag>mother</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>nappy</s:tag>
+    <s:tag>nappy bag</s:tag>
+    <s:tag>Nylon</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>tag-new</s:tag>
+    <s:tag>teether</s:tag>
+    <s:tag>The Mommas</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>Wet/Dry Bag</s:tag>
+    <s:tag>YGroup_Pumping_Tote</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/6544056221832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BEIS320027</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5174920511624</id>
+    <published>2020-10-21T08:50:00-07:00</published>
+    <updated>2020-10-21T08:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-backpack-diaper-bag"/>
+    <title>The Backpack Diaper Bag</title>
+    <s:type>Diaper Bag</s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_DiaperBackpack_Black_12261.jpg?v=1622090490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong>Diaper Bag<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span data-mce-fragment="1"><meta charset="utf-8">The anti-diaper diaper bag backpack is the perfect accessory with enough function to tote around all your baby-mama needs and chic enough that NO ONE will ever suspect that you're carrying around a week-old dirty diaper! Complete with every essential needed for that dreaded diaper change; a changing pad with a diaper and baby wipes pocket, an odor-proof pouch, a teething ring to keep the babe from squirming, and a pacifier pouch to easily reach that must-have baby plug! These diaper bag backpacks are the ultimate lifesaver for any busy mom that's always on the go.</span></p>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p>Dims: 12" W x 15" H x 7.75" D<br>Materials: <br>Body: Nylon Twill<br>Trim: Buffalo PU, <br> Jelly PVC (Accessories)<br> Silicone (Teething Ring)<br>Lining: 100% Poly<br>Zinc Alloy Hardware<br>Care: Spot Clean<br>Weight: 4lbs</p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">EXTERIOR<br>- 5 Exterior pockets(2 slips, 2 slips with magnetic closure, 1 zip) (one pocket to hold changing pad)<br>- Trolley sleeve with option to use as a zip pocket<br>- Removable/Interchangeable padded shoulder strap<br>- Removable/Interchangeable padded chain strap<br>- Removable/Interchangeable adjustable strap with shoulder pad <br>- Breakaway zipper for easy access to interior<br>- Snaps on sides to reduce/expand size<br>- Metal feet on bottom to protect from wear &amp; tear<br>INTERIOR<br>- Removable stroller straps<br>- Tabs for stroller caddy (sold separately)<br>- Key Fob<br>- Pacifier pouch included<br>- Odor Proof bag (for dirty diapers/clothing)<br>- Portable changing pad with slip pocket for diapers &amp; wipes<br>- Teething ring<br>- Insulated drawstring pocket for bottles<br>- Padded Laptop sleeve with magnetic closure <meta charset="utf-8"><span data-mce-fragment="1">12" W x 13" H; fits most 16" laptops</span><br>- 2 large slip pockets<br>- 1 large zip pocket</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>backpack</s:tag>
+    <s:tag>backpack diaper</s:tag>
+    <s:tag>bagpack</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>bookbag</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>daiper</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>diaper</s:tag>
+    <s:tag>diaper backpack</s:tag>
+    <s:tag>diaper bag</s:tag>
+    <s:tag>diaperbag</s:tag>
+    <s:tag>dip</s:tag>
+    <s:tag>diper</s:tag>
+    <s:tag>diper bag</s:tag>
+    <s:tag>dipper</s:tag>
+    <s:tag>dipper bag</s:tag>
+    <s:tag>dopper</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>maternity</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>mommy</s:tag>
+    <s:tag>mother</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>nappy</s:tag>
+    <s:tag>nappy bag</s:tag>
+    <s:tag>Nylon</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>teether</s:tag>
+    <s:tag>The Mommas</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>Wet/Dry Bag</s:tag>
+    <s:tag>YGroup_backpack_diaper</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5174920511624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>BEIS320023</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5144434409608</id>
+    <published>2020-09-23T08:50:03-07:00</published>
+    <updated>2020-09-23T08:50:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-2-in-1-backpack-in-black"/>
+    <title>The 2-In-1 Backpack in Black</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_Backpack2in1_Black_12243.jpg?v=1622082868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span>Did you ever just want a bag that could do it all?! Something so modular in design that it could literally suit your every need and keep your hands free to text, hold a beverage, do cartwheels?!? Welp, here it is, a backpack with a removable front pouch that with the clip of a strap becomes a crossbody or acts as a seat back organizer when you are on the go! We know, we should have named this the everyday, everything, everywhere bag....</span></p>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<p><meta charset="utf-8">Dims: 11.5"W x 6"D x 15.25"H<br data-mce-fragment="1">Materials: Body - Faux Leather/PU Lining - Polyester Strap - Faux Leather/PU Care: Spot Clean<br data-mce-fragment="1">Weight: 2.7lbs<br></p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">EXTERIOR<br>- padded shoulder straps<br>- padded laptop compartment on back<br>- trolley passthrough<br>- removable pouch with strap to convert it to a crossbody<br>- removable pouch can also be used as a seatback organizer<br>- large interior slip pocket<br>INTERIOR<br>- 2 interior slip pockets<br>- clear interior zipper pocket<br>- mesh elastic water bottle pocket<br>PERFECT FOR<br>Everyday<br>Work Days<br>Weekends<br>Carry-On</p>
+<p class="p1"> </p>
+<p class="p1"> </p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2+ Bags In One</s:tag>
+    <s:tag>backpack</s:tag>
+    <s:tag>bagpack</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>book bag</s:tag>
+    <s:tag>bookbag</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>crossbody</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Fall 2020</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>removable</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Vegan Leather</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_the_2in1backpack</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5144434409608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BEIS320009</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/5144409276552</id>
+    <published>2020-09-23T08:50:02-07:00</published>
+    <updated>2020-09-23T08:50:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-2-in-1-backpack-in-beige"/>
+    <title>The 2-In-1 Backpack in Beige</title>
+    <s:type></s:type>
+    <s:vendor>Béis Travel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_Backpack2in1_Beige_12207.jpg?v=1622076556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Béis Travel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Description</strong></td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span><meta charset="utf-8">Did you ever just want a bag that could do it all?! Something so modular in design that it could literally suit your every need and keep your hands free to text, hold a beverage, do cartwheels?!? Welp, here it is, a backpack with a removable front pouch that with the clip of a strap becomes a crossbody or acts as a seatback organizer when you are on the go! We know, we should have named this the everyday, everything, everywhere bag....</span></p>
+<p class="p1"> </p>
+</td>
+</tr>
+<tr>
+<td><strong>Specifications</strong></td>
+</tr>
+<tr>
+<td>
+<p><meta charset="utf-8"><span>Dims: 11.5"W x 6"D x 15.25"H <br>Materials: Body - Faux Leather/PU Lining - Polyester Strap - Faux Leather/PU Care: Spot Clean <br>Weight: 2.7lbs</span></p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><strong>Details</strong></td>
+</tr>
+<tr>
+<td>
+<div><strong><meta charset="utf-8"></strong></div>
+<div><strong><meta charset="utf-8"></strong></div>
+<div><strong><meta charset="utf-8"></strong></div>
+<p class="p1"><meta charset="utf-8"><span>EXTERIOR</span><br><span>- padded shoulder straps</span><br><span>- padded laptop compartment on back</span><br><span>- trolley passthrough</span><br><span>- removable pouch with strap to convert it to a crossbody</span><br><span>- removable pouch can also be used as a seatback organizer</span><br><span>- large interior slip pocket</span><br><span>INTERIOR</span><br><span>- 2 interior slip pockets</span><br><span>- clear interior zipper pocket</span><br><span>- mesh elastic water bottle pocket</span><br><span>PERFECT FOR</span><br><span>Everyday</span><br><span>Work Days</span><br><span>Weekends</span><br><span>Carry-On</span></p>
+<p class="p1"> </p>
+<p class="p1"> </p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2+ Bags In One</s:tag>
+    <s:tag>2-In-1 Backpack</s:tag>
+    <s:tag>backpack</s:tag>
+    <s:tag>bagpack</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>book bag</s:tag>
+    <s:tag>bookbag</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>crossbody</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Fall 2020</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>Multi-Wear</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>removable</s:tag>
+    <s:tag>Shoulder Straps</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Vegan Leather</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_the_2in1backpack</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/5144409276552</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BEIS320008</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/2226821070959</id>
+    <published>2019-05-22T09:00:08-07:00</published>
+    <updated>2019-05-22T09:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-backpack-in-black"/>
+    <title>The Backpack in Black</title>
+    <s:type>Backpacks</s:type>
+    <s:vendor>Beach House Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_BackpackOG_Black_12217.jpg?v=1622091029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beach House Group<br>
+        <strong>Type: </strong>Backpacks<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span style="font-weight: 400;">We call this the Daytripper because we packed so much function and style into one black bookbag. Whether you are looking for a travel backpack or a daypack, this is sure to become your go-to classic backpack because of its enhanced functionality. You can literally pack all the things you need for the day—or an overnight—and it still looks so sleek. The main compartment zips wide open to carry work items, gym </span><span style="font-weight: 400;">gear,</span><span style="font-weight: 400;"> and all your life </span><span style="font-weight: 400;">essentials</span><span style="font-weight: 400;">. Plus, the front pocket fits all of your necessities you want to keep close at hand. No more endless digging! #Blessed.</span></p>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<div>
+<meta charset="utf-8"> <span>Dims: 13"" W x 19"" H x 5.5"" D</span><br><span>Materials:Body - Cotton, </span><span>Trim - PVC, </span><span>Lining - Polyester</span><br><span>Care: Spot Clean</span><br><span>Weight: 1.8 lbs</span>
+</div>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<div><meta charset="utf-8"></div>
+<p class="p1">EXTERIOR<br>-2 water bottle pockets<br>-large front zip pocket with organization<br>-trolley passthrough<br>-padded shoulder straps<br>INTERIOR<br>-water resistant lining<br>-trolley passthrough<br>-3 zip pockets<br>-padded laptop sleeve<br>-4 point elastic compression straps<br>-key fob<br>PERFECT FOR<br>-Day Trips<br>-Easy Overnights<br>-School Days<br>-Gym Stuff<br>-Mom Life</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>backpack</s:tag>
+    <s:tag>bagpack</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>book bag</s:tag>
+    <s:tag>bookbag</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>man bag</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>mens bags</s:tag>
+    <s:tag>mini backpck</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Should Straps</s:tag>
+    <s:tag>small backpack</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_the_backpack</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/2226821070959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>BEIS019132</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://beistravel.com/products/2226820841583</id>
+    <published>2019-05-22T08:59:57-07:00</published>
+    <updated>2019-05-22T08:59:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://beistravel.com/products/the-backpack-in-beige"/>
+    <title>The Backpack in Beige</title>
+    <s:type>Backpacks</s:type>
+    <s:vendor>Beach House Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/Beis_BackpackOG_Beige_12181.jpg?v=1622090879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beach House Group<br>
+        <strong>Type: </strong>Backpacks<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<table width="100%">
+<tbody>
+<tr>
+<td>Description</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1"><span class="s1">We call this the Daytripper because we packed so much function into one bag you can literally jam all the things you need for the day—or an overnight—and it still looks so sleek. The main compartment zips wide open to carry work stuff, gym stuff and all your life stuff. Plus, the front pocket fits all the bits you want to keep close at hand. No more endless digging? #Blessed.<br></span></p>
+<div><meta charset="utf-8"></div>
+<p class="p1"> </p>
+</td>
+</tr>
+<tr>
+<td>Specifications</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1">Dims: 13"" W x 19"" H x 5.5"" D<br>Materials:Body - Cotton, Trim - PVC, Lining - Polyester<br>Care: Spot Clean<br>Weight: 1.8 lbs</p>
+</td>
+</tr>
+<tr>
+<td>Details</td>
+</tr>
+<tr>
+<td>
+<div><meta charset="utf-8"></div>
+<p class="p1">EXTERIOR<br data-mce-fragment="1">-2 water bottle pockets<br data-mce-fragment="1">-large front zip pocket with organization<br data-mce-fragment="1">-trolley passthrough<br data-mce-fragment="1">-padded shoulder straps<br data-mce-fragment="1">INTERIOR<br data-mce-fragment="1">-water resistant lining<br data-mce-fragment="1">-trolley passthrough<br data-mce-fragment="1">-3 zip pockets<br data-mce-fragment="1">-padded laptop sleeve<br data-mce-fragment="1">-4 point elastic compression straps <br data-mce-fragment="1">-key fob<br>PERFECT FOR<br>-Day Trips<br data-mce-fragment="1">-Easy Overnights<br data-mce-fragment="1">-School Days<br data-mce-fragment="1">-Gym Stuff<br data-mce-fragment="1">-Mom Life<br><br></p>
+<div><meta charset="utf-8"></div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>backpack</s:tag>
+    <s:tag>bagpack</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>bfcm</s:tag>
+    <s:tag>book bag</s:tag>
+    <s:tag>bookbag</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Carry On</s:tag>
+    <s:tag>Day Trip</s:tag>
+    <s:tag>Key Fob Holder</s:tag>
+    <s:tag>Long Weekend</s:tag>
+    <s:tag>memorial day sale</s:tag>
+    <s:tag>mini backpack</s:tag>
+    <s:tag>Overnighter</s:tag>
+    <s:tag>Should Straps</s:tag>
+    <s:tag>small backpack</s:tag>
+    <s:tag>the small backpack</s:tag>
+    <s:tag>Travel Buff</s:tag>
+    <s:tag>Trolley Passthrough</s:tag>
+    <s:tag>Weeklong Vacation</s:tag>
+    <s:tag>YGroup_the_backpack</s:tag>
+    <s:variant>
+      <id>https://beistravel.com/products/2226820841583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>BEIS019131</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>
