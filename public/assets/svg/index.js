@@ -123,4 +123,30 @@ const Cart = (props) => {
   );
 };
 
-export { Logo, User, Search, Cart };
+const DownArrow = (props) => {
+  return (
+    <svg
+      {...props}
+      width="30px"
+      height="31px"
+      viewBox="0 0 30 31"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink">
+      {/* Generator: Sketch 53.2 (72643) - https://sketchapp.com */}
+      <title>arrow-down</title>
+      <desc>Created with Sketch.</desc>
+      <g id="Page-1" stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
+        <g id="arro" transform="translate(0.000000, -1.000000)" fill="#000000" fillRule="nonzero">
+          <g
+            id="arrow-down"
+            transform="translate(15.000000, 16.017000) rotate(180.000000) translate(-15.000000, -16.017000) translate(-0.000000, 0.517000)">
+            <polygon id="Path" points="15.647 2.392 15.647 30.517 14.353 30.517 14.353 2.392 0.905 15.905 0 15 15 0 30 15 29.159 15.905" />
+          </g>
+        </g>
+      </g>
+    </svg>
+  );
+};
+
+export { Logo, User, Search, Cart, DownArrow };

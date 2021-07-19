@@ -3,6 +3,16 @@
   src: url('~/assets/font/fonts/BrandonGrotesque-Regular.woff');
 }
 
+@font-face {
+  font-family: 'Brandon Grotesque Bold';
+  src: url('~/assets/font/fonts/BrandonGrotesque-Bold.woff');
+}
+
+@font-face {
+  font-family: 'Canela Bold';
+  src: url('~/assets/font/fonts/Canela-Bold.woff');
+}
+
 body {
   font-family: 'Brandon Grotesque Regular';
   font-size: 16px;
@@ -56,4 +66,47 @@ body {
   background-size: 200% 100%;
   background-position: right bottom;
   transition: all ease 0.3s;
+  -webkit-transition: all ease 0.3s;
+  -moz-transition: all ease 0.3s;
+  -ms-transition: all ease 0.3s;
+  -o-transition: all ease 0.3s;
+}
+
+.mute-button {
+  position: absolute;
+  top: 100px;
+  right: 25px;
+}
+
+.big-header {
+  font-family: 'Canela Bold';
+  font-weight: 400;
+  font-size: 38px;
+  letter-spacing: normal;
+  line-height: 1.05;
+}
+
+@media (min-width: 768px) {
+  .big-header {
+    font-size: 54px;
+    line-height: 1;
+    letter-spacing: 0.9px;
+  }
+}
+
+@media (min-width: 992px) {
+  .big-header {
+    font-size: 60px;
+  }
+}
+
+.temp-heading-1 {
+  font-size: 58px;
+}
+
+@media only screen and (min-width: 768px) {
+  .temp-heading-1 {
+    font-size: 68px;
+    white-space: pre-wrap;
+  }
 }

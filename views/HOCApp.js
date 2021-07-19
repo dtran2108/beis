@@ -1,16 +1,8 @@
 import React, { useEffect } from 'react';
 import { connect } from 'react-redux';
-import dynamic from 'next/dynamic';
 import { useRouter } from 'next/router';
-import { BackTop, message, notification } from 'antd';
-import { UpOutlined } from '@ant-design/icons';
-const Header = dynamic(import('~/views/container/Header'));
-const Footer = dynamic(import('~/views/container/Footer'));
-import styled from 'styled-components';
-
-const WrapStyleGlobal = styled.div`
-  font-family: Montserrat !important;
-`;
+import { message, notification } from 'antd';
+import Header from '~/views/container/components/Header';
 
 const HOCApp = (props) => {
   const router = useRouter();
@@ -43,16 +35,10 @@ const HOCApp = (props) => {
   }, [props.isAuthenticated]);
 
   return (
-    <WrapStyleGlobal>
+    <>
       <Header />
       {props.children}
-      <Footer />
-      <BackTop>
-        <div style={backTopStyle} className="d-flex align-items-center justify-content-center">
-          <UpOutlined />
-        </div>
-      </BackTop>
-    </WrapStyleGlobal>
+    </>
   );
 };
 
