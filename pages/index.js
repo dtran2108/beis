@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import React from 'react';
 import Meta from '~/views/SEO/meta';
 import Home from '~/container/Home/index';

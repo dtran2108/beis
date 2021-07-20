@@ -1,14 +1,12 @@
 import React from 'react';
-import { useDispatch } from 'react-redux';
-import Example from '~/container/Example';
-import { setProvinces } from '~/redux/appData/actions';
+// import Example from '~/container/Example';
 import { head } from 'lodash';
 import Meta from '~/views/SEO/meta';
 
 /**
  * wrapper: connect with Redux in getStaticProps({store})
  */
-const Index = (props) => {
+const Index = () => {
   // const dispatch = useDispatch();
   // dispatch(setProvinces(props.provinces));
   return (
@@ -20,7 +18,7 @@ const Index = (props) => {
         description={'Description alasldkasjdlask jd'}
       />
       {/*send props(data fetch from api) to component*/}
-      <Example {...props} />
+      {/* <Example {...props} /> */}
     </>
   );
 };

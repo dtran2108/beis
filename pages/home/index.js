@@ -10,7 +10,7 @@ const fetchData = () =>
 /**
  * SSR: call api in getStaticProps -> return
  */
-export default function Index({ preview, data }) {
+export default function Index({ data }) {
   const heroPost = data[0];
   return (
     <>

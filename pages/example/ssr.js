@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useStore } from '~/redux/store';
 
 export default function SSR() {
