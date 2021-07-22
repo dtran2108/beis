@@ -26,7 +26,7 @@ const VideoSection = () => {
           )}
         </Button>
         <div className="w-100 d-flex flex-column justify-content-center align-items-center" style={{ position: 'absolute', top: '50%' }}>
-          <h2 className="big-header temp-heading-1 mb-5 w-100" style={{ color: '#fff', textAlign: 'center' }}>
+          <h2 className="big-header temp-heading-1 mb-5 w-100" style={{ color: '#fff', textAlign: 'center', fontSize: '68px' }}>
             Hot BÉIS Summer
           </h2>
           <Button

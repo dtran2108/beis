@@ -311,3 +311,87 @@ img.full-width {
 .temp-btn-large {
   white-space: normal;
 }
+.shopify-section {
+  position: relative;
+}
+@media only screen and (min-width: 768px) {
+  .temp-pull-1 {
+    margin-top: -380px;
+  }
+}
+
+.temp-txt-light,
+.temp-txt-light p {
+  color: #fff;
+}
+.temp-pull-1 {
+  margin-top: -150px;
+}
+.temp-fullscreen-promo {
+  position: relative;
+  min-height: 65vw;
+}
+.temp-fullscreen-promo__img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.temp-bg-white {
+  background-color: #fff;
+}
+@media only screen and (min-width: 768px) {
+  .temp-pad-pull-2 {
+    padding-bottom: 450px;
+  }
+}
+
+.temp-pad-pull-2 {
+  padding-bottom: 250px;
+}
+.temp-container-fluid-restrained {
+  width: 100%;
+  max-width: 1400px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .temp-marg-4 {
+    margin-top: 105px;
+    margin-bottom: 105px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .temp-heading-3 {
+    font-size: 40px;
+  }
+}
+
+.temp-heading-3 {
+  font-size: 50px;
+  line-height: 1.23;
+}
+.temp-txt-1,
+.temp-txt-1 p {
+  font-family: 'Brandon Grotesque Regular';
+  font-size: 20px;
+  line-height: 1.38;
+  letter-spacing: 0.2px;
+}
+@media (min-width: 768px) {
+  .temp-marg-15 {
+    margin-bottom: 200px;
+  }
+}
+
+.temp-marg-15 {
+  margin-top: 60px;
+  margin-bottom: 55px;
+}
