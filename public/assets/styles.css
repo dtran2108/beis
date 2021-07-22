@@ -395,3 +395,27 @@ img.full-width {
   margin-top: 60px;
   margin-bottom: 55px;
 }
+@media only screen and (min-width: 768px) {
+  .temp-overrun-text {
+    width: 160%;
+    transform: translateX(-38%);
+  }
+}
+.temp-txt-1,
+.temp-txt-1 p {
+  font-family: 'Brandon Grotesque Regular';
+  font-size: 20px;
+  line-height: 1.38;
+  letter-spacing: 0.2px;
+}
+@media (min-width: 768px) {
+  .temp-marg-16 {
+    margin-right: 100px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .temp-marg-5 {
+    margin-top: 70px;
+    margin-bottom: 150px;
+  }
+}
