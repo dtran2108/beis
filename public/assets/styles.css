@@ -581,3 +581,168 @@ a {
     transform: translateY(-50%);
   }
 }
+.navigation__item:hover:before {
+  width: 100%;
+}
+.navigation__item:before {
+  content: '';
+  width: 0;
+  height: 1px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: #000;
+  transition: all ease 0.3s;
+}
+
+.swell-reward-beis-travel .banner-section {
+  display: flex;
+  background-color: #ebd9c9;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 1200px;
+  margin-bottom: 50px;
+  padding-top: 80px;
+}
+.swell-reward-beis-travel .banner-section .banner-heading-area {
+  margin: auto;
+  text-align: center;
+  flex-basis: 50%;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.swell-reward-beis-travel .banner-section .banner-image-area {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+.swell-reward-beis-travel .banner-section .banner-heading-area .banner-text-holder {
+  margin: auto;
+  max-width: 400px;
+}
+.swell-reward-beis-travel .banner-section .banner-heading-area .banner-text-holder .banner-heading {
+  font-family: 'Canela Bold';
+  color: #131313;
+  text-transform: uppercase;
+  font-size: 76px;
+  margin-bottom: 15px;
+}
+.swell-reward-beis-travel .banner-section .banner-heading-area .banner-text-holder .banner-text {
+  font-family: 'Brandon Grotesque Medium';
+  color: #131313;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+.swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder {
+  width: 100%;
+  max-width: 600px;
+}
+@media (min-width: 769px) {
+  .swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder .swell-desktop-banner {
+    display: none;
+  }
+}
+
+.swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder .swell-desktop-banner {
+  display: initial;
+}
+.swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder img {
+  display: block;
+  width: 100%;
+}
+@media (min-width: 769px) {
+  .swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder .swell-mobile-banner {
+    display: none;
+  }
+}
+
+.swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder .swell-mobile-banner {
+  display: initial;
+}
+.swell-reward-beis-travel .banner-section .banner-image-area .banner-image-holder img {
+  display: block;
+  width: 100%;
+}
+.swell-reward-beis-travel .how-it-work-section {
+  display: flex;
+  margin: auto;
+  max-width: 1200px;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-image-area {
+  flex-basis: 40%;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area {
+  flex-basis: 60%;
+  margin: auto;
+  display: flex;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+.swell-reward-beis-travel .how-it-work-section .how-it-work-image-area .how-it-work-image-holder {
+  width: 100%;
+  margin: auto;
+  max-width: 500px;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder {
+  margin: auto;
+  width: 100%;
+  max-width: 700px;
+  text-align: left;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder .how-it-work-heading {
+  font-family: 'Canela Bold';
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder .how-it-work-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder .how-it-work-list .how-it-work-item {
+  flex-basis: 33%;
+  min-height: 130px;
+  font-family: 'Brandon Grotesque Bold';
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder .how-it-work-list .how-it-work-item .how-it-work-text {
+  margin: auto;
+  font-size: 14px;
+  max-width: 160px;
+}
+@media (min-width: 769px) {
+  .swell-reward-beis-travel
+    .how-it-work-section
+    .how-it-work-heading-area
+    .how-it-work-text-holder
+    .how-it-work-list
+    .how-it-work-item:before {
+    content: '';
+    background-image: url(/assets/images/swell-HIW-arrow.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    max-width: 50px;
+    min-height: 12px;
+    position: absolute;
+    right: -10px;
+    top: 10px;
+    display: block;
+  }
+  .how-it-work-list :last-child.how-it-work-item:before {
+    display: none !important;
+  }
+}
+.swell-reward-beis-travel .how-it-work-section .how-it-work-heading-area .how-it-work-text-holder .how-it-work-list .how-it-work-item .how-it-work-item-content {
+  max-width: 170px;
+}
+li, ul {
+  list-style: none;
+}
