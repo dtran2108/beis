@@ -4,7 +4,7 @@ import { UISecondaryButton } from '~/views/presentation/ui/buttons';
 const WineSection = () => {
   return (
     <>
-      <div id="shopify-section-homepage-new-promo-4" className="shopify-section">
+      <div id="shopify-section-homepage-new-promo-4" className="shopify-section pt-5" style={{ background: '#ebd9c8' }}>
         <div data-section-id="homepage-new-promo-4" data-section-type="homepage-new-promo-4">
           <div className="temp-container-fluid-restrained temp-z-1 position-relative temp-pull-2">
             <div className="row flex-row temp-marg-top--xl-dis">

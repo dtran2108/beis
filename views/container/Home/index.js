@@ -4,7 +4,7 @@ import VideoSection from './VideoSection';
 import SummerSection from './SummerSection';
 import WorkHardSection from './WorkHardSection';
 import WineSection from './WineSection';
-import { UISecondaryButton } from '~/views/presentation/ui/buttons';
+import WeLoveThemSection from './WeLoveThemSection';
 
 const Home = () => {
   return (
@@ -14,6 +14,7 @@ const Home = () => {
       <SummerSection />
       <WorkHardSection />
       <WineSection />
+      <WeLoveThemSection />
     </>
   );
 };

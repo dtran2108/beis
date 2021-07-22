@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import { useRouter } from 'next/router';
 import { message, notification } from 'antd';
 import Header from '~/views/container/components/Header';
+import Footer from '~/views/container/components/Footer';
 
 const HOCApp = (props) => {
   const router = useRouter();
@@ -38,6 +39,7 @@ const HOCApp = (props) => {
     <>
       <Header />
       {props.children}
+      <Footer />
     </>
   );
 };
