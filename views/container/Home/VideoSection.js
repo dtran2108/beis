@@ -7,7 +7,7 @@ const VideoSection = () => {
   const [isMuted, setIsMuted] = useState(true);
   return (
     <>
-      <div style={{ width: '100%', height: '100vh' }}>
+      <div style={{ width: '100%', height: '100vh', position: 'relative' }}>
         <video ref={videoRef} width="100%" height="100%" autoPlay muted loop style={{ objectFit: 'cover' }}>
           <source src="/assets/video/lisa.mp4" type="video/mp4"></source>
           Your browser does not support the video tag.
@@ -37,7 +37,7 @@ const VideoSection = () => {
               textTransform: 'uppercase',
               letterSpacing: '1.2px',
               lineHeight: '2.17',
-              fontSize: '12px',
+              fontSize: '14px',
               fontFamily: 'Brandon Grotesque Bold'
             }}>
             SHOP Best Sellers
