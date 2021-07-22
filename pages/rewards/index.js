@@ -19,7 +19,7 @@ export default function Index() {
           <div className="banner-heading-area">
             <div className="banner-text-holder">
               <h1 className="banner-heading">béis rewards</h1>
-              <p className="banner-text">As a rewards member, you'll get closer to earning exclusive rewards every time you shop.</p>
+              <p className="banner-text">As a rewards member, get closer to earning exclusive rewards every time you shop.</p>
               <UISecondaryButton width="200px" size="large">
                 SIGN UP
               </UISecondaryButton>
