@@ -5,7 +5,7 @@ import { Logo, User, Search, Cart } from '~/assets/svg';
 const Header = () => {
   const linkItems = [
     { title: 'Shop All', link: '/' },
-    { title: 'Featured', link: '/' },
+    { title: 'Featured', link: '/featured' },
     { title: 'Bags', link: '/' },
     { title: 'Luggage', link: '/' },
     { title: 'Accessories', link: '/' },

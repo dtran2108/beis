@@ -9,7 +9,6 @@ import WeLoveThemSection from './WeLoveThemSection';
 const Home = () => {
   return (
     <>
-      <Header />
       <VideoSection />
       <SummerSection />
       <WorkHardSection />
