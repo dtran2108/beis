@@ -14,7 +14,7 @@ const MobileHeader = () => {
           <span />
           <span />
         </button>
-        <h1 className="fostr-header__navigation__logo">
+        <h1 className="fostr-header__navigation__logo" style={{ transform: 'translateX(62%)'}}>
           <a href="/" rel="home">
             <Logo />
           </a>

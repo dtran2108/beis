@@ -922,7 +922,7 @@ section {
   margin: 0;
   position: relative;
   top: 0;
-  margin-right: auto;
+  /* margin-right: auto; */
 }
 .t-circular-reveal--mobile span {
   background-color: #000;
@@ -940,29 +940,6 @@ section {
 }
 .t-circular-reveal--mobile span:nth-child(3) {
   top: 22px;
-}
-
-.fostr-header__navigation__logo {
-  height: 40px;
-  position: absolute;
-  left: 50%;
-  top: 10px;
-  transform: translate(-50%, -27%);
-  width: 68px;
-  margin-right: auto;
-  -webkit-transform: translate(-50%, -27%);
-  -moz-transform: translate(-50%, -27%);
-  -ms-transform: translate(-50%, -27%);
-  -o-transform: translate(-50%, -27%);
-}
-@media (max-width: 900px) {
-  .fostr-header__navigation__logo {
-    top: 15px !important;
-  }
-}
-.fostr-header__navigation__logo svg {
-  height: 100%;
-  width: 100%;
 }
 .fostr-header__navigation__links-mobile {
   width: 100%;
