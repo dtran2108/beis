@@ -1,6 +1,5 @@
 import React from 'react';
 import Meta from '~/views/SEO/meta';
-import Home from '~/container/Home/index';
 import HOCApp from '~/views/HOCApp';
 
 export default function Index() {

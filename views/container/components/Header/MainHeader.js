@@ -1,18 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Typography } from 'antd';
 import { Logo, User, Search, Cart } from '~/assets/svg';
+import { headerMenus } from '~/configs/menus';
 
-const Header = () => {
-  const linkItems = [
-    { title: 'Shop All', link: '/' },
-    { title: 'Featured', link: '/featured' },
-    { title: 'Bags', link: '/' },
-    { title: 'Luggage', link: '/' },
-    { title: 'Accessories', link: '/' },
-    { title: 'Sale', link: '/' },
-    { title: 'Rewards', link: '/rewards' }
-  ];
-
+const MainHeader = () => {
   return (
     <div className="fostr-header">
       <div className="fostr-header__navigation ju_forcepush">
@@ -22,7 +13,7 @@ const Header = () => {
           </a>
         </h1>
         <nav className="d-flex align-items-center justify-content-between">
-          {linkItems.map((item, i) => (
+          {headerMenus.map((item, i) => (
             <Typography.Link
               className="mx-4 fostr-header__navigation__links__item navigation__item"
               key={i}
@@ -53,4 +44,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default MainHeader;

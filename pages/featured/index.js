@@ -16,7 +16,7 @@ export default function Index() {
           'The best travel gear and accessories for the modern traveler. These are perfect for weekend sleepovers, beach days, and summers in the south of France. Designed and created by Shay Mitchell.'
         }
       />
-      <main className="main">
+      <main className="main" style={{ marginTop: '72px' }}>
         <div className="container-fluid plp">
           <div className="plp__header">
             <h1 className="product-header color-black">Featured Collection</h1>

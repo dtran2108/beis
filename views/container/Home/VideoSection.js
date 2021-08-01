@@ -14,7 +14,7 @@ const VideoSection = () => {
         </video>
         <Button
           type="link"
-          className="mute-button"
+          className="mute-button d-none d-lg-block"
           onClick={() => {
             videoRef.current.muted = !videoRef.current.muted;
             setIsMuted(videoRef.current.muted);
@@ -33,7 +33,7 @@ const VideoSection = () => {
             type="primary"
             className="d-flex align-items-center justify-content-center py-3"
             style={{
-              width: '400px',
+              width: '300px',
               textTransform: 'uppercase',
               letterSpacing: '1.2px',
               lineHeight: '2.17',

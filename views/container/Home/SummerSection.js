@@ -21,7 +21,7 @@ const SummerSection = () => {
                     srcSet="//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_640x.jpg?v=1626284177 640w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_750x.jpg?v=1626284177 750w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_828x.jpg?v=1626284177 828w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_1136x.jpg?v=1626284177 1136w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_1334x.jpg?v=1626284177 1334w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_1700x.jpg?v=1626284177 1700w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_2000x.jpg?v=1626284177 2000w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_2300x.jpg?v=1626284177 2300w,//cdn.shopify.com/s/files/1/0032/3423/4479/files/image1_8691891a-0335-4e4a-9029-436b1cda4bfb_2600x.jpg?v=1626284177 2600w"
                   />
                 </div>
-                <div className="temp-img-txt__txt temp-img-txt__txt3">
+                <div className="temp-img-txt__txt temp-img-txt__txt3 d-none d-lg-block">
                   <div className="temp-img-txt__inner">
                     <div className="temp-img-txt__l1">Practice Safe Travels</div>
                     <div className="temp-img-txt__l2">Your hot summer starts now. Travel is back and sexier than ever.</div>
@@ -38,7 +38,7 @@ const SummerSection = () => {
               <div className="temp-txt-1 temp-marg-16">
                 <p>This summer is all about traveling protected.</p>
               </div>
-              <div className="temp-marg-11">
+              <div className="temp-marg-11 mb-5 mb-lg-0">
                 <UISecondaryButton width="200px" size="large" className="temp-btn-large mb-md-5">
                   SHOP NOW
                 </UISecondaryButton>

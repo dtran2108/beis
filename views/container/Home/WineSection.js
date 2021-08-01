@@ -10,7 +10,7 @@ const WineSection = () => {
             <div className="row flex-row temp-marg-top--xl-dis">
               <div className="col-md-5 mx-3 mx-md-0">
                 <div className="temp-img-txt">
-                  <div className="temp-img-txt__txt temp-img-txt__txt3">
+                  <div className="temp-img-txt__txt temp-img-txt__txt3 d-none d-lg-block">
                     <div className="temp-img-txt__inner">
                       <div className="temp-img-txt__l1">It’s Getting Hot In Here</div>
                       <div className="temp-img-txt__l2">You’ll want to put your hands all over this.</div>
@@ -33,13 +33,13 @@ const WineSection = () => {
               </div>
               <div className="col-md-2" />
               <div className="col-md-5 mx-3 mx-md-0">
-                <div className="temp-overrun-text">
+                <div className="temp-overrun-text my-5 my-lg-0">
                   <h2 className="big-header temp-heading-2 temp-marg-1">Hit Me Baby One More Wine</h2>
                 </div>
                 <div className="temp-txt-1 temp-marg-16">
                   <p>Your kids might be all grown up but there are still a few uses for The Pumping Bag.</p>
                 </div>
-                <UISecondaryButton width="200px" size="large" className="temp-btn-large temp-marg-5">
+                <UISecondaryButton width="200px" size="large" className="temp-btn-large temp-marg-5 mb-5">
                   SHOP BEST SELLERS
                 </UISecondaryButton>
                 <div className="temp-img-border-2">
