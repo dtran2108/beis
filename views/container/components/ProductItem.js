@@ -3,6 +3,7 @@ import { UISecondaryButton } from '~/views/presentation/ui/buttons';
 import { Typography } from 'antd';
 import Rating from '@material-ui/lab/Rating';
 import styled from 'styled-components';
+import Image from 'next/image';
 
 const RatingStyled = styled(Rating)`
   .iconFilled {
@@ -59,7 +60,7 @@ export default function ProductItem() {
             </span>
           </a>
         </h3>
-        <div className="d-flex align-items-center" style={{ position: 'relative', left: '-5px' }}>
+        <div className="d-flex align-items-center flex-wrap" style={{ position: 'relative', left: '-5px' }}>
           <RatingStyled value={5} readOnly className="mr-3" size="small" />
           <Typography.Link className="text-m" style={{ color: '#000', textDecoration: 'underline' }}>
             8083 Reviews

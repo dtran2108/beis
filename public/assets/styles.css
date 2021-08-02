@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: 'Brandon Grotesque Medium';
+  src: url('~/assets/font/fonts/BrandonGrotesque-Medium.woff');
+}
+
+@font-face {
   font-family: 'Brandon Grotesque Bold';
   src: url('~/assets/font/fonts/BrandonGrotesque-Bold.woff');
 }
@@ -977,4 +982,31 @@ section {
 
 .fostr-header__navigation__links-mobile::-webkit-scrollbar-thumb {
   background-color: #000;
+}
+@media (min-width: 768px) {
+  .cart__header .cart__mini-cart-toggle {
+    right: 14px;
+  }
+}
+.cart__mini-cart-toggle {
+  height: 40px;
+  width: 40px;
+  line-height: 42px;
+  font-size: 24px;
+  transition: transform ease 0.3s;
+  position: absolute;
+  right: 4px;
+  top: 6px;
+  color: #505050;
+  font-family: 'Brandon Grotesque Regular';
+}
+
+.cart__mini-cart-toggle {
+  -webkit-appearance: none;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+}
+.cart__subtotal {
+  margin-bottom: 30px;
 }
