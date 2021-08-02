@@ -13,6 +13,7 @@ export function getServerSideProps() {
   const initialReduxState = {
     // your init value
   };
+  // eslint-disable-next-line react-hooks/rules-of-hooks
   const store = useStore(initialReduxState);
 
   const { dispatch } = store;

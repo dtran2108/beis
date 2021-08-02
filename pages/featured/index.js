@@ -7,6 +7,7 @@ import ProductItem from '~/views/container/components/ProductItem';
 import { useWindowSize } from 'react-use';
 
 export default function Index() {
+  // eslint-disable-next-line no-unused-vars
   const { width, height } = useWindowSize();
   return (
     <HOCApp>

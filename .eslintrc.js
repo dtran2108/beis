@@ -23,6 +23,7 @@ module.exports = {
     es6: true
   },
   extends: [
+    'next',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
@@ -30,6 +31,7 @@ module.exports = {
   ],
   rules: {
     'prettier/prettier': ['error', {}, { usePrettierrc: true }], // Use our .prettierrc file as source
-    'react/prop-types': 0 // not prop-type
+    'react/prop-types': 0, // not prop-type,
+    'react/no-unused-vars': 'off'
   }
 };
