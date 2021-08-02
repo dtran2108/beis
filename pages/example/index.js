@@ -1,6 +1,6 @@
 import React from 'react';
 // import Example from '~/container/Example';
-import { head } from 'lodash';
+// import { head } from 'lodash';
 import Meta from '~/views/SEO/meta';
 
 /**
@@ -23,12 +23,12 @@ const Index = () => {
   );
 };
 
-export async function getStaticProps({ preview = false }) {
-  const allPosts = ['title', 'date', 'slug', 'author', 'coverImage', 'excerpt'];
-  const provinces = await (await fetch('http://45.76.152.153:8080/api/v1/provinces')).json();
-  return {
-    props: { allPosts, provinces: [head(provinces)] || null, preview }
-  };
-}
+// export async function getStaticProps({ preview = false }) {
+//   const allPosts = ['title', 'date', 'slug', 'author', 'coverImage', 'excerpt'];
+//   const provinces = await (await fetch('http://45.76.152.153:8080/api/v1/provinces')).json();
+//   return {
+//     props: { allPosts, provinces: [head(provinces)] || null, preview }
+//   };
+// }
 
 export default Index;
