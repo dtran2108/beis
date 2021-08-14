@@ -1010,3 +1010,17 @@ section {
 .cart__subtotal {
   margin-bottom: 30px;
 }
+.ant-carousel .slick-prev,
+.ant-carousel .slick-next,
+.ant-carousel .slick-prev:hover,
+.ant-carousel .slick-next:hover,
+.ant-carousel .slick-next:active,
+.ant-carousel .slick-prev:active,
+.ant-carousel .slick-next:focus,
+.ant-carousel .slick-prev:focus {
+  width: 54px;
+  height: 54px;
+  color: currentColor;
+  position: absolute;
+  top: 510px
+}
