@@ -149,4 +149,53 @@ const DownArrow = (props) => {
   );
 };
 
-export { Logo, User, Search, Cart, DownArrow };
+const LeftArrow = (props) => {
+  return (
+    <svg
+      {...props}
+      width="100%"
+      height="100%"
+      viewBox="0 0 53 53"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink">
+      <g id="Page-1" stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
+        <g
+          id="icon-arrow-thin-left"
+          transform="translate(26.500000, 26.500000) rotate(180.000000) translate(-26.500000, -26.500000) "
+          fill="#000000"
+          fillRule="nonzero">
+          <g id="Path" transform="translate(26.500000, 26.500000) rotate(90.000000) translate(-26.500000, -26.500000) ">
+            <polygon points="27.174 4.155 27.174 53 24.928 53 24.928 4.155 1.572 27.623 0 26.051 26.051 0 52.1 26.051 50.64 27.623" />
+          </g>
+        </g>
+      </g>
+    </svg>
+  );
+};
+
+const RightArrow = (props) => {
+  return (
+    <svg
+      {...props}
+      width="100%"
+      height="100%"
+      viewBox="0 0 53 53"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlnsXlink="http://www.w3.org/1999/xlink">
+      {/* Generator: Sketch 53.2 (72643) - https://sketchapp.com */}
+      <title>icon-arrow-right</title>
+      <desc>Created with Sketch.</desc>
+      <g id="Page-1" stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
+        <g id="icon-arrow-right" fill="#000000" fillRule="nonzero">
+          <g transform="translate(26.500000, 26.500000) rotate(90.000000) translate(-26.500000, -26.500000) " id="Path">
+            <polygon points="27.174 4.155 27.174 53 24.928 53 24.928 4.155 1.572 27.623 0 26.051 26.051 0 52.1 26.051 50.64 27.623" />
+          </g>
+        </g>
+      </g>
+    </svg>
+  );
+};
+
+export { Logo, User, Search, Cart, DownArrow, LeftArrow, RightArrow };

@@ -1,15 +1,29 @@
 import React from 'react';
-import { Carousel, Typography } from 'antd';
-import { UISecondaryButton } from '~/presentation/ui/buttons';
+import ProductCarousel from '~/views/container/components/ProductCarousel';
 
 const WeLoveThemSection = () => {
-  const contentStyle = {
-    height: '160px',
-    color: '#fff',
-    lineHeight: '160px',
-    textAlign: 'center',
-    background: '#364d79'
-  };
+  const carouselData = [
+    {
+      imgSrc: 'https://cdn.shopify.com/s/files/1/0032/3423/4479/products/weekender_black_1700x.jpg?v=1625739239',
+      title: 'The Weekender in Black',
+      price: '$98.00'
+    },
+    {
+      imgSrc: 'https://cdn.shopify.com/s/files/1/0032/3423/4479/products/weekender_black_1700x.jpg?v=1625739239',
+      title: 'The Weekender in Red',
+      price: '$98.00'
+    },
+    {
+      imgSrc: 'https://cdn.shopify.com/s/files/1/0032/3423/4479/products/weekender_black_1700x.jpg?v=1625739239',
+      title: 'The Weekender in Yellow',
+      price: '$98.00'
+    },
+    {
+      imgSrc: 'https://cdn.shopify.com/s/files/1/0032/3423/4479/products/weekender_black_1700x.jpg?v=1625739239',
+      title: 'The Weekender in Green',
+      price: '$98.00'
+    }
+  ];
 
   return (
     <>
@@ -61,95 +75,7 @@ const WeLoveThemSection = () => {
           <div className="col-md-3" />
         </div>
         <div className="container-fluid" style={{ marginBottom: '220px' }}>
-          <Carousel
-            slidesToShow={3}
-            arrows
-            dots={false}
-            responsive={[
-              {
-                breakpoint: 1024,
-                settings: {
-                  slidesToShow: 3
-                }
-              },
-              {
-                breakpoint: 600,
-                settings: {
-                  slidesToShow: 2
-                }
-              },
-              {
-                breakpoint: 480,
-                settings: {
-                  slidesToShow: 1
-                }
-              }
-            ]}
-            prevArrow={
-              <svg
-                width="100%"
-                height="100%"
-                viewBox="0 0 53 53"
-                version="1.1"
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink">
-                <g id="Page-1" stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
-                  <g
-                    id="icon-arrow-thin-left"
-                    transform="translate(26.500000, 26.500000) rotate(180.000000) translate(-26.500000, -26.500000) "
-                    fill="#000000"
-                    fillRule="nonzero">
-                    <g id="Path" transform="translate(26.500000, 26.500000) rotate(90.000000) translate(-26.500000, -26.500000) ">
-                      <polygon points="27.174 4.155 27.174 53 24.928 53 24.928 4.155 1.572 27.623 0 26.051 26.051 0 52.1 26.051 50.64 27.623" />
-                    </g>
-                  </g>
-                </g>
-              </svg>
-            }
-            nextArrow={
-              <svg
-                width="100%"
-                height="100%"
-                viewBox="0 0 53 53"
-                version="1.1"
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink">
-                {/* Generator: Sketch 53.2 (72643) - https://sketchapp.com */}
-                <title>icon-arrow-right</title>
-                <desc>Created with Sketch.</desc>
-                <g id="Page-1" stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
-                  <g id="icon-arrow-right" fill="#000000" fillRule="nonzero">
-                    <g transform="translate(26.500000, 26.500000) rotate(90.000000) translate(-26.500000, -26.500000) " id="Path">
-                      <polygon points="27.174 4.155 27.174 53 24.928 53 24.928 4.155 1.572 27.623 0 26.051 26.051 0 52.1 26.051 50.64 27.623" />
-                    </g>
-                  </g>
-                </g>
-              </svg>
-            }>
-            {[0, 1, 2, 3].map((item, i) => (
-              <div key={i}>
-                <div className="d-flex flex-column align-items-center justify-content-between" style={{ height: '500' }}>
-                  <img
-                    width="300"
-                    height="300"
-                    src="https://cdn.shopify.com/s/files/1/0032/3423/4479/products/weekender_black_1700x.jpg?v=1625739239"
-                    alt="item"
-                  />
-                  <div className="d-flex flex-column align-items-center justify-content-center">
-                    <Typography.Title level={3} className="mb-3">
-                      The Weekender in Black
-                    </Typography.Title>
-                    <Typography.Text style={{ fontSize: '18px', fontWeight: '800' }} strong className="mb-3">
-                      $98.00
-                    </Typography.Text>
-                    <UISecondaryButton width="240px" size="large">
-                      <b>ADD TO BAG</b>
-                    </UISecondaryButton>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </Carousel>
+          <ProductCarousel data={carouselData} />
         </div>
       </div>
     </>
