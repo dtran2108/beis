@@ -31,13 +31,14 @@ const VideoSection = () => {
           </h2>
           <Button
             type="primary"
-            className="d-flex align-items-center justify-content-center py-3"
+            size="large"
+            className="d-flex align-items-center justify-content-center py-4"
             style={{
-              width: '300px',
+              width: '350px',
               textTransform: 'uppercase',
               letterSpacing: '1.2px',
               lineHeight: '2.17',
-              fontSize: '14px',
+              fontSize: '18px',
               fontFamily: 'Brandon Grotesque Bold'
             }}>
             SHOP Best Sellers

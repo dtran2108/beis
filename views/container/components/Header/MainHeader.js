@@ -22,7 +22,7 @@ const MainHeader = () => {
                 className="mx-4 fostr-header__navigation__links__item navigation__item"
                 key={i}
                 href={item.link}
-                style={{ color: '#000', position: 'relative' }}>
+                style={{ color: '#000', position: 'relative', fontSize: '18px' }}>
                 {item.title}
               </Typography.Link>
             ))}
